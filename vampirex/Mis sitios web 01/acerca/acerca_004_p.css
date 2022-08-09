@@ -1,0 +1,303 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc04               { /* Common */
+	border          :   0.00pt none #f0f0f0;
+	}
+span#e33            { /* images/acerca004006.jpg */
+	background      : transparent url(images/acerca004006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 768.00pt;
+	height          : 288.75pt;
+	}
+span#e32            { /* images/acerca004005.jpg */
+	background      : transparent url(images/acerca004005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  76.50pt;
+	top             : 238.50pt;
+	width           : 615.75pt;
+	height          : 445.50pt;
+	}
+span#e31            { /* images/acerca004004.jpg */
+	background      : transparent url(images/acerca004004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 206.25pt;
+	width           : 603.75pt;
+	height          :  24.75pt;
+	}
+span#e30            { /* images/acerca004003.jpg */
+	background      : transparent url(images/acerca004003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 582.00pt;
+	width           : 120.00pt;
+	height          :  90.00pt;
+	}
+div#e29             { /* Logo */
+	padding-top     :   9.00pt;
+	position        : absolute;
+	left            : 133.50pt;
+	top             : 107.25pt;
+	width           : 134.25pt;
+	height          :  39.75pt;
+	}
+div#e28             { /* Logo */
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 111.75pt;
+	top             : 608.25pt;
+	width           :  61.50pt;
+	height          :  26.25pt;
+	}
+div#e27             { /* Portada */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            :  85.50pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e26             { /* Nosotros */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 183.75pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e25             { /* Galería */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e24             { /* Contacte */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 380.25pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+address#e23         { /* Nombre */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 626.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+address#e22         { /* Dirección */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 641.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+address#e21         { /* E-mail */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 656.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+h6#e20              { /* Este software contiene m... */
+	background-color: transparent;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 677.25pt;
+	width           : 597.75pt;
+	height          :  12.75pt;
+	}
+form#f19            { /* mailto:su@dirección.aquí... */
+	position        : absolute;
+	left            : 117.00pt;
+	top             : 304.50pt;
+	width           : 184.50pt;
+	height          : 147.00pt;
+	}
+fieldset#e19        { /* mailto:su@dirección.aquí... */
+	border          :   0.75pt solid #f0f0f0;
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	}
+legend#e18          { /* Para contactarse */
+	text-align      : left;
+	position        : absolute;
+	left            :   3.75pt;
+	top             :   3.75pt;
+	width           :  90.75pt;
+	height          :  14.25pt;
+	}
+label#e17           { /* Nombre */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :  29.25pt;
+	width           :  64.50pt;
+	height          :  12.00pt;
+	}
+input#e16           { /* Text Name Nombre  */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	border          :   0.75pt solid #f0f0f0;
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :   6.00pt;
+	top             :  46.50pt;
+	width           : 184.50pt;
+	}
+label#e15           { /* Teléfono */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :  66.75pt;
+	width           :  64.50pt;
+	height          :  12.00pt;
+	}
+input#e14           { /* Text Phone Teléfono  */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	border          :   0.75pt solid #f0f0f0;
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :   5.25pt;
+	top             :  84.75pt;
+	width           : 184.50pt;
+	}
+label#e13           { /* E-mail */
+	position        : absolute;
+	left            :   1.50pt;
+	top             : 104.25pt;
+	width           :  64.50pt;
+	height          :  12.00pt;
+	}
+input#e12           { /* Text Email E-mail  */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	border          :   0.75pt solid #f0f0f0;
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :   4.50pt;
+	top             : 123.00pt;
+	width           : 184.50pt;
+	}
+input#e11           { /* Submit Envíar detalles  */
+	position        : absolute;
+	left            :   3.00pt;
+	top             : 142.50pt;
+	width           :  93.75pt;
+	}
+input#e10           { /* Reset Borrar detalles  */
+	position        : absolute;
+	left            :  99.75pt;
+	top             : 142.50pt;
+	width           :  93.75pt;
+	}
+h4#e9               { /* Contacte */
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 258.75pt;
+	width           : 203.25pt;
+	height          :  15.00pt;
+	}
+address#e8          { /* {escribir calle\ \ciudad... */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 485.25pt;
+	width           : 267.00pt;
+	height          :  46.50pt;
+	}
+address#e7          { /* Teléfono */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 537.00pt;
+	width           :  53.25pt;
+	height          :  11.25pt;
+	}
+address#e6          { /* Fax */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 559.50pt;
+	width           :  53.25pt;
+	height          :  11.25pt;
+	}
+address#e5          { /* {número de teléfono} */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 537.00pt;
+	width           : 157.50pt;
+	height          :  11.25pt;
+	}
+address#e4          { /* {número de fax} */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 559.50pt;
+	width           : 157.50pt;
+	height          :  11.25pt;
+	}
+address#e3          { /* {su@dirección.aquí} */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 582.00pt;
+	width           : 157.50pt;
+	height          :  11.25pt;
+	}
+span#e2             { /* images/acerca004002.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/acerca004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 483.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e1             { /* images/acerca004001.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/acerca004001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 524.25pt;
+	top             : 483.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 768.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #6a70a2;
+	background-image: url(images/dr_i_bg.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,203 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc05               { /* Common */
+	border          :   0.00pt none #eaebec;
+	}
+span#e21            { /* images/about004010.jpg */
+	background      : transparent url(images/about004010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 600.00pt;
+	height          : 288.75pt;
+	}
+span#e20            { /* images/about004009.jpg */
+	background      : transparent url(images/about004009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             : 238.50pt;
+	width           : 483.75pt;
+	height          : 445.50pt;
+	}
+span#e19            { /* images/about004008.jpg */
+	background      : transparent url(images/about004008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 206.25pt;
+	width           : 471.75pt;
+	height          :  24.75pt;
+	}
+span#e18            { /* images/about004007.jpg */
+	background      : transparent url(images/about004007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 582.00pt;
+	width           :  93.75pt;
+	height          :  90.00pt;
+	}
+div#e17             { /* Portada */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e16             { /* Nosotros */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 143.25pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e15             { /* Galería */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 220.50pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e14             { /* Contactame */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+h4#e13              { /* Contactame */
+	font            : bold 9pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  81.00pt;
+	top             : 258.75pt;
+	width           : 160.50pt;
+	height          :  18.00pt;
+	}
+img#e12             { /* images/about004006.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 312.75pt;
+	top             : 505.50pt;
+	width           : 109.50pt;
+	height          : 106.50pt;
+	}
+img#e11             { /* images/about004005.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 421.50pt;
+	top             : 505.50pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+h6#e10              { /* Si el objetivo es ser gr... */
+	font            : 7pt 'Times New Roman', Book, Georgia, serif;
+	color           : #808080;
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 677.25pt;
+	width           : 471.75pt;
+	height          :  20.25pt;
+	}
+address#e9          { /* Luis Anthony */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 626.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+address#e8          { /* El SIye */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 145.50pt;
+	top             : 641.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+address#e7          { /* vampiro-707@hotmail.com */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 656.25pt;
+	width           : 102.75pt;
+	height          :  12.00pt;
+	}
+div#e6              { /* Vampiro\ \707 */
+	font            : bold 12pt 'Comic Sans MS', cursive;
+	color           : #808080;
+	text-align      : center;
+	padding-top     :   9.75pt;
+	position        : absolute;
+	left            :  80.25pt;
+	top             : 612.00pt;
+	width           :  66.75pt;
+	height          :  44.25pt;
+	}
+img#e5              { /* images/about004004.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            :  73.50pt;
+	top             : 504.75pt;
+	width           : 109.50pt;
+	height          : 106.50pt;
+	}
+img#e4              { /* images/about004003.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 504.00pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+div#e3              { /*  Entre Poemas y  \\ Teor... */
+	background      : transparent url(images/about004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  63.75pt;
+	top             :  87.75pt;
+	width           : 471.75pt;
+	height          : 120.00pt;
+	}
+div#e2              {
+	position        : absolute;
+	left            :  76.50pt;
+	top             : 280.50pt;
+	width           : 321.75pt;
+	height          : 217.50pt;
+	}
+img#e1              { /* images/about004001.jpg */
+	position        : absolute;
+	left            : 405.00pt;
+	top             : 481.50pt;
+	width           : 126.00pt;
+	height          :  16.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 600.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	background-image: url(images/about004b01.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

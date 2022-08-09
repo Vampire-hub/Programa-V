@@ -1,0 +1,200 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #eaebec;
+	}
+.cc02               { /* Common */
+	font            : bold 8pt 'Arial Black', Helvetica, sans-serif;
+	color           : #c0c0c0;
+	}
+span#e20            { /* images/about001009.jpg */
+	background      : transparent url(images/about001009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 600.00pt;
+	height          : 288.00pt;
+	}
+span#e19            { /* images/about001008.jpg */
+	background      : transparent url(images/about001008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             : 238.50pt;
+	width           : 483.75pt;
+	height          : 445.50pt;
+	}
+span#e18            { /* images/about001007.jpg */
+	background      : transparent url(images/about001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 206.25pt;
+	width           : 471.75pt;
+	height          :  24.75pt;
+	}
+span#e17            { /* images/about001006.jpg */
+	background      : transparent url(images/about001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 585.00pt;
+	width           :  93.75pt;
+	height          :  90.00pt;
+	}
+div#e16             { /* Vampiro\ \707 */
+	font            : bold 12pt 'Comic Sans MS', cursive;
+	color           : #808080;
+	text-align      : center;
+	padding-top     :   9.75pt;
+	position        : absolute;
+	left            :  80.25pt;
+	top             : 612.00pt;
+	width           :  66.75pt;
+	height          :  44.25pt;
+	}
+div#e15             { /* Portada */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e14             { /* Nosotros */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 143.25pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e13             { /* Galería */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 220.50pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* Contacte */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+address#e11         { /* Luis Anthony */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 626.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+address#e10         { /* El SIye */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 145.50pt;
+	top             : 641.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+address#e9          { /* vampiro-707@livw.com */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 656.25pt;
+	width           : 102.75pt;
+	height          :  12.00pt;
+	}
+h6#e8               { /* Si el objetivo es ser gr... */
+	font            : 7pt 'Times New Roman', Book, Georgia, serif;
+	color           : #808080;
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 677.25pt;
+	width           : 471.75pt;
+	height          :  20.25pt;
+	}
+div#e7              { /* El día de ayer ha pasado... */
+	font            : bold 8pt 'Arial Black', Helvetica, sans-serif;
+	color           : #808000;
+	position        : absolute;
+	left            :  73.50pt;
+	top             : 234.00pt;
+	width           : 451.50pt;
+	height          : 273.00pt;
+	}
+span#e6             { /* images/about001005.jpg */
+	border          :   0.00pt none #808080;
+	background      : transparent url(images/about001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  72.00pt;
+	top             : 510.00pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+span#e5             { /* images/about001004.jpg */
+	border          :   0.00pt none #808080;
+	background      : transparent url(images/about001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 189.75pt;
+	top             : 509.25pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+span#e4             { /* images/about001003.jpg */
+	border          :   0.00pt none #808080;
+	background      : transparent url(images/about001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 307.50pt;
+	top             : 509.25pt;
+	width           : 109.50pt;
+	height          : 106.50pt;
+	}
+span#e3             { /* images/about001002.jpg */
+	border          :   0.00pt none #808080;
+	background      : transparent url(images/about001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 421.50pt;
+	top             : 508.50pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+div#e2              { /* Sólo fue una noche más e... */
+	position        : absolute;
+	left            : 315.00pt;
+	top             : 496.50pt;
+	width           : 214.50pt;
+	height          :  24.75pt;
+	}
+div#e1              { /*  Entre Poemas y  \\ Teor... */
+	background      : transparent url(images/about001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  63.75pt;
+	top             :  87.75pt;
+	width           : 471.75pt;
+	height          : 120.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 600.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	background-image: url(images/about001b01.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

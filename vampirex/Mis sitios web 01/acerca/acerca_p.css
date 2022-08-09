@@ -1,0 +1,199 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #f0f0f0;
+	}
+span#e21            { /* images/acerca001008.jpg */
+	background      : transparent url(images/acerca001008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 768.00pt;
+	height          : 288.75pt;
+	}
+span#e20            { /* images/acerca001007.jpg */
+	background      : transparent url(images/acerca001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  76.50pt;
+	top             : 238.50pt;
+	width           : 615.75pt;
+	height          : 445.50pt;
+	}
+span#e19            { /* images/acerca001006.jpg */
+	background      : transparent url(images/acerca001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 206.25pt;
+	width           : 603.75pt;
+	height          :  24.75pt;
+	}
+span#e18            { /* images/acerca001005.jpg */
+	background      : transparent url(images/acerca001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 585.00pt;
+	width           : 120.00pt;
+	height          :  90.00pt;
+	}
+div#e17             { /* Logo */
+	padding-top     :   9.00pt;
+	position        : absolute;
+	left            : 133.50pt;
+	top             : 107.25pt;
+	width           : 134.25pt;
+	height          :  39.75pt;
+	}
+div#e16             { /* Logo */
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 111.75pt;
+	top             : 608.25pt;
+	width           :  61.50pt;
+	height          :  26.25pt;
+	}
+div#e15             { /* Portada */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            :  85.50pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e14             { /* Nosotros */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 183.75pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e13             { /* Galería */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e12             { /* Contacte */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 380.25pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+address#e11         { /* Nombre */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 626.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+address#e10         { /* Dirección */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 641.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+address#e9          { /* E-mail */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 656.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+h6#e8               { /* Este software contiene m... */
+	background-color: transparent;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 677.25pt;
+	width           : 597.75pt;
+	height          :  12.75pt;
+	}
+h4#e7               { /* Portada */
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 258.75pt;
+	width           : 203.25pt;
+	height          :  15.00pt;
+	}
+div#e6              { /* Haga doble clic aquí par... */
+	text-align      : left;
+	position        : absolute;
+	left            : 104.25pt;
+	top             : 291.75pt;
+	width           : 267.00pt;
+	height          : 174.75pt;
+	}
+div#e5              { /* Haga doble clic aquí par... */
+	text-align      : left;
+	position        : absolute;
+	left            : 389.25pt;
+	top             : 291.75pt;
+	width           : 267.00pt;
+	height          : 174.75pt;
+	}
+span#e4             { /* images/acerca001004.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/acerca001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 100.50pt;
+	top             : 483.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e3             { /* images/acerca001003.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/acerca001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 238.50pt;
+	top             : 483.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e2             { /* images/acerca001002.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/acerca001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 483.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e1             { /* images/acerca001001.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/acerca001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 524.25pt;
+	top             : 483.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 768.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #6a70a2;
+	background-image: url(images/dr_i_bg.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

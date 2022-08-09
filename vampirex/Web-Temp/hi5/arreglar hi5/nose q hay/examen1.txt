@@ -1,0 +1,22 @@
+Create database cristalreport
+go 
+use cristalreport
+go
+create table cargo (idcar char(2) primary key not null,
+
+       descar varchar(35))
+go
+create table empleado(idemp char(2) primary key not null,
+       apeemp varchar(45),sexemp bit,sueemp numeric(9,3),idcar char(2) foreign key (idcar)references cargo (idcar)
+)
+go
+
+create procedure sp_insertar
+@idcar char(2), @descar varchar(35)
+as
+  insert into cargo values(@idcar,@descar)
+
+execute sp_insertar '01', 'gerente'
+execute sp_insertar '02', 'Administrador'
+
+select * from cargo

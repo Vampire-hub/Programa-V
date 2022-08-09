@@ -1,0 +1,228 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	text-decoration :none;
+	}
+a:visited           { /* Document Style */
+	text-decoration :none;
+	}
+a:hover             { /* Document Style */
+	text-decoration :underline;
+	}
+a:active            { /* Active Links */
+	color           : #ff0000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+a.navigation:link   {
+	text-decoration :none;
+	}
+a.navigation:visited{
+	text-decoration :none;
+	}
+a.navigation:hover  {
+	text-decoration :underline;
+	}
+table.ct07          { /* Document Style */
+	text-align      : center;
+	border          :   0.75pt solid black;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #000000;
+	}
+table.ct07 td       { /* Document Style */
+	text-align      : right;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 th       { /* Document Style */
+	background-color: #c0c0c0;
+	text-align      : left;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	background-color: #c0c0c0;
+	text-align      : left;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+.address,address    {
+	color           : #ffffff;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.citation,cite      {
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	}
+.code,code          {
+	font            : 10pt 'Courier New', monospace;
+	}
+.deco               {
+	color           : #c0c0c0;
+	background-color: #c0c0c0;
+	}
+.emphasis,em        {
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.footer             {
+	text-align      : center;
+	}
+.footer_box         {
+	background-color: #c0c0c0;
+	}
+.form_button        {
+	color           : #000000;
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_input         {
+	border          :   0.75pt solid black;
+	}
+.form_label         {
+	color           : #ffffff;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding         :   1.50pt;
+	}
+.form_legend        {
+	color           : #000000;
+	}
+.form_set           {
+	border          :   0.75pt solid black;
+	}
+.header             {
+	font            : bold 20pt 'Arial', Helvetica, sans-serif;
+	}
+.header_box         {
+	background-color: #c0c0c0;
+	}
+.heading1,h1        {
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	}
+.heading2,h2        {
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	}
+.heading3,h3        {
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	}
+.heading4,h4        {
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	}
+.heading5,h5        {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	}
+.heading6,h6        {
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.info               {
+	color           : #ffffff;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.info_box           {
+	background-color: #c0c0c0;
+	}
+.info_tag           {
+	}
+.item               {
+	color           : #ffffff;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding         :   1.50pt;
+	}
+.item_box           {
+	color           : #8f6b00;
+	background-color: #8f6b00;
+	}
+.item_tag           {
+	color           : #ffffff;
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding         :   1.50pt;
+	}
+.logo               {
+	color           : #ffffff;
+	}
+.logo_box           {
+	background-color: #c0c0c0;
+	}
+.logo_tag           {
+	}
+.navigation         {
+	color           : #ffffff;
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : center;
+	padding         :   1.50pt;
+	}
+.navigation a       {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_box     {
+	background-color: #c0c0c0;
+	}
+.navigation_pin     {
+	color           : #cc9900;
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : center;
+	padding         :   1.50pt;
+	}
+.navigation_tag     {
+	}
+.news               {
+	}
+.news_box           {
+	background-color: #c0c0c0;
+	}
+.news_tag           {
+	}
+.page               {
+	background-color: #000000;
+	}
+.page_box           {
+	color           : #000000;
+	background-color: #000000;
+	}
+.page_tag           {
+	color           : #ffffff;
+	font            : bold 12pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding         :   1.50pt;
+	}
+.panel              {
+	color           : #000000;
+	}
+.panel_box          {
+	background-color: #c0c0c0;
+	}
+.photo              {
+	background-color: #c0c0c0;
+	}
+.photo_box          {
+	background-color: #c0c0c0;
+	}
+.photo_tag          {
+	}
+.sly                { /* Special */
+	display         : none;
+	}
+.small,small        {
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	}
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,261 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc04               { /* Common */
+	border          :   0.00pt none #eaebec;
+	}
+span#e27            { /* images/about003017.jpg */
+	background      : transparent url(images/about003017.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 600.00pt;
+	height          : 288.75pt;
+	}
+span#e26            { /* images/about003016.jpg */
+	background      : transparent url(images/about003016.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             : 238.50pt;
+	width           : 483.75pt;
+	height          : 445.50pt;
+	}
+span#e25            { /* images/about003015.jpg */
+	background      : transparent url(images/about003015.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 206.25pt;
+	width           : 471.75pt;
+	height          :  24.75pt;
+	}
+span#e24            { /* images/about003014.jpg */
+	background      : transparent url(images/about003014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 585.00pt;
+	width           :  93.75pt;
+	height          :  90.00pt;
+	}
+div#e23             { /* Portada */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e22             { /* Nosotros */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 143.25pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e21             { /* Galería */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 220.50pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e20             { /* Contacte */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+h4#e19              { /* Galería */
+	font            : bold 9pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  81.00pt;
+	top             : 258.75pt;
+	width           : 160.50pt;
+	height          :  18.00pt;
+	}
+img#e18             { /* images/about003013.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            :  78.00pt;
+	top             : 507.00pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e17             { /* images/about003012.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 295.50pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e16             { /* images/about003011.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 300.00pt;
+	top             : 295.50pt;
+	width           : 109.50pt;
+	height          : 106.50pt;
+	}
+img#e15             { /* images/about003010.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 295.50pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e14             { /* images/about003009.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            :  78.00pt;
+	top             : 402.00pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e13             { /* images/about003008.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 402.00pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e12             { /* images/about003007.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 300.00pt;
+	top             : 402.00pt;
+	width           : 109.50pt;
+	height          : 106.50pt;
+	}
+img#e11             { /* images/about003006.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 402.00pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e10             { /* images/about003005.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            :  78.00pt;
+	top             : 296.25pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e9              { /* images/about003004.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 508.50pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+img#e8              { /* images/about003003.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 300.00pt;
+	top             : 508.50pt;
+	width           : 109.50pt;
+	height          : 106.50pt;
+	}
+img#e7              { /* images/about003002.jpg */
+	border          :   0.00pt none #808080;
+	background-color: transparent;
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 508.50pt;
+	width           : 108.75pt;
+	height          : 106.50pt;
+	}
+h6#e6               { /* Si el objetivo es ser gr... */
+	font            : 7pt 'Times New Roman', Book, Georgia, serif;
+	color           : #808080;
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 677.25pt;
+	width           : 471.75pt;
+	height          :  20.25pt;
+	}
+address#e5          { /* Luis Anthony */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 626.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+address#e4          { /* El SIye */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 145.50pt;
+	top             : 641.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+div#e3              { /* Vampiro\ \707 */
+	font            : bold 12pt 'Comic Sans MS', cursive;
+	color           : #808080;
+	text-align      : center;
+	padding-top     :   9.75pt;
+	position        : absolute;
+	left            :  80.25pt;
+	top             : 612.00pt;
+	width           :  66.75pt;
+	height          :  44.25pt;
+	}
+address#e2          { /* vampiro-707@hotmail.com */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 656.25pt;
+	width           : 102.75pt;
+	height          :  12.00pt;
+	}
+div#e1              { /*  Entre Poemas y  \\ Teor... */
+	background      : transparent url(images/about003001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  63.75pt;
+	top             :  87.75pt;
+	width           : 471.75pt;
+	height          : 120.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 600.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	background-image: url(images/about003b01.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

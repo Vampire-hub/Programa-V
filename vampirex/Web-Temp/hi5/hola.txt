@@ -1,0 +1,53 @@
+<head>
+<object id=wolfi classid=clsid:d45fd31b-5c6e-11d1-9ec1-00c04fd7081f></object>
+<Script LANGUAGE="JavaScript" TYPE="text/javascript">
+function LoadLocalAgent(CharID, CharACS) {
+LoadReq = wolfi.Characters.Load(CharID, CharACS);
+return(true);
+}
+var MerlinID;
+var MerlinACS;
+wolfi.Connected = true;
+MerlinLoaded = LoadLocalAgent(MerlinID, MerlinACS);
+Merlin = wolfi.Characters.Character(MerlinID);
+
+Merlin.MoveTo (0,60);
+Merlin.Show();
+Merlin.Play("announce");
+Merlin.Play("Greet")
+Merlin.Play("Surprised");
+Merlin.Play("GetAttention");
+Merlin.Play("Blink");
+Merlin.speak("Welkome To --..:: -->WWW.MIGUELVARAS.TK<-- ::..--");
+Merlin.Play("Blink"); 
+Merlin.Play("Confused");
+Merlin.MoveTo (800,400);
+Merlin.Play("Surprised");
+Merlin.Play('GestureRight');
+Merlin.speak("...:::--= La Web CON MAS FLOW =--:::...");
+Merlin.Play("Blink"); 
+Merlin.Play("Confused");
+Merlin.MoveTo (50,300);
+Merlin.Play("Surprised");
+Merlin.Play('GestureLeft');
+Merlin.speak("Musika , Videos musikales pelikulas ,hacks , todo sobre Gb msn  y sobre todo full Webing !! :D");
+Merlin.Play("announce");
+Merlin.MoveTo (600,400);
+Merlin.Play("Surprised");
+Merlin.Play('GestureRight');
+Merlin.speak("Kon entretenimiemto Web Page 100% Peruana");
+Merlin.Play("announce");
+Merlin.speak("Hey !! No t olvides de Votar x esta Web !! X tu Web !! No te tomara mas de tres segundos vota ,,:CARRANZA GAY:.. Gracias .  ");
+Merlin.MoveTo (150,350);
+Merlin.Play('GestureLeft');
+Merlin.Play('DoMAgic1');
+Merlin.Play('DoMAgic2');
+Merlin.Play("Blink");
+Merlin.speak("Kualkier duda ,komentario, pedidos y mas ... aki en miguelvaras_11@hotmail.com  xD ");
+Merlin.Play("Blink");
+Merlin.speak("Hasta Pronto ....        Web Dedikada A  ...:::==--   --==:::...      (MIGUELVARAS) ");
+Merlin.Play("Greet")
+
+Merlin.Hide();
+
+</script></div>

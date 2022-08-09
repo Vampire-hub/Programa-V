@@ -1,0 +1,2318 @@
+;
+; Album     17/12/2011 16:58:38
+; Copyright (C) 2010 Avanquest Software. All Rights Reserved.
+; Pages: 4 
+;
+begin
+	IxlaPhotoAlbum == 0
+	push_object IxlaPhotoAlbum
+	def ,`build_as`,`cssht`,yes,
+	def ,`col`,0,yes,
+	def ,`cur_page`,1,yes,
+	def ,`exterior`,`0 0`,no,
+	def ,`htm_dir_img`,`images`,yes,
+	def ,`htm_dir_lnk`,`linked`,yes,
+	def ,`htm_footer`,`centre`,yes,
+	def ,`htm_name`,`About`,yes,
+	def ,`htm_path`,`F:\Ediciones Multimedia\vampirex\nuevo\`,yes,
+	def ,`htm_txc_alink`,`#ff0000`,yes,
+	def ,`htm_txc_nlink`,`#000000`,yes,
+	def ,`htm_txc_vlink`,`#4d4d4d`,yes,
+	def ,`img_type`,`.JPG`,yes,
+	def ,`main_name`,`index.html`,yes,
+	def ,`page bgc`,`white`,yes,
+	PG150690660 == 0
+	push_object PG150690660
+	OBJ150690660 == 0
+	push_object OBJ150690660
+	def ,`POINT00001`,89,834,
+	def ,`POINT00002`,712,893,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1506906629,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10000`,`G_TEXT`,OBJ150690660,
+	OBJ150690661 == 0
+	push_object OBJ150690661
+	def ,`POINT00001`,86,367,
+	def ,`POINT00002`,88,896,
+	def ,`brightness`,255,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10001`,`G_IMAGE`,OBJ150690661,
+	OBJ150690662 == 0
+	push_object OBJ150690662
+	def ,`POINT00001`,713,366,
+	def ,`POINT00002`,715,895,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ150690662,
+	OBJ150690663 == 0
+	push_object OBJ150690663
+	def ,`POINT00001`,88,893,
+	def ,`POINT00002`,715,896,
+	def ,`brightness`,255,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ150690663,
+	OBJ150690664 == 0
+	push_object OBJ150690664
+	def ,`POINT00001`,88,830,
+	def ,`POINT00002`,713,832,
+	def ,`brightness`,215,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ150690664,
+	OBJ150690665 == 0
+	push_object OBJ150690665
+	def ,`CROP00001`,0,383,
+	def ,`POINT00001`,0,-1,
+	def ,`POINT00002`,799,383,
+	def ,`mask`,`Stencils\Fade\fade_top_2_bottom.png`,yes,
+	def ,`name`,`Photos\Nature\dr_i_mn.jpg`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ150690665,
+	OBJ150690666 == 0
+	push_object OBJ150690666
+	def ,`POINT00001`,86,326,
+	def ,`POINT00002`,714,900,
+	def ,`bgc`,`#bfc1d7`,yes,
+	def ,`lock`,yes,yes,
+	def ,`mask`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`black`,yes,
+	def ,`shadow_diffuse`,7,yes,
+	def ,`shadow_intensity`,19,yes,
+	def ,`shadow_offset_x`,0,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ150690666,
+	OBJ150690667 == 0
+	push_object OBJ150690667
+	def ,`POINT00001`,86,275,
+	def ,`POINT00002`,714,307,
+	def ,`brightness`,-150,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`lock`,yes,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ150690667,
+	OBJ150690668 == 0
+	push_object OBJ150690668
+	def ,`POINT00001`,86,780,
+	def ,`POINT00002`,210,899,
+	def ,`mask`,`Stencils\Fade\fade_oval.png`,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ150690668,
+	OBJ1506906610 == 0
+	push_object OBJ1506906610
+	def ,`POINT00001`,116,811,
+	def ,`POINT00002`,183,854,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Arial#14#Bold#0#0#0`,yes,
+	def ,`name`,#@logo=#,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10009`,`G_TEXT`,OBJ1506906610,
+	OBJ1506906611 == 0
+	push_object OBJ1506906611
+	def ,`POINT00001`,89,277,
+	def ,`POINT00002`,186,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`name`,`Portada`,yes,
+	def ,`styleclass`,CS1506906658,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10010`,`G_TEXT`,OBJ1506906611,
+	OBJ1506906612 == 0
+	push_object OBJ1506906612
+	def ,`POINT00001`,191,277,
+	def ,`POINT00002`,288,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ1506906612,
+	OBJ1506906613 == 0
+	push_object OBJ1506906613
+	def ,`POINT00001`,294,277,
+	def ,`POINT00002`,391,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 3`,yes,
+	def ,`name`,`Galería`,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10012`,`G_TEXT`,OBJ1506906613,
+	OBJ1506906614 == 0
+	push_object OBJ1506906614
+	def ,`POINT00001`,396,277,
+	def ,`POINT00002`,493,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 4`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10013`,`G_TEXT`,OBJ1506906614,
+	OBJ1506906615 == 0
+	push_object OBJ1506906615
+	def ,`POINT00001`,195,835,
+	def ,`POINT00002`,280,854,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Name#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ1506906615,
+	OBJ1506906616 == 0
+	push_object OBJ1506906616
+	def ,`POINT00001`,195,855,
+	def ,`POINT00002`,280,874,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Address#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10015`,`G_TEXT`,OBJ1506906616,
+	OBJ1506906617 == 0
+	push_object OBJ1506906617
+	def ,`POINT00001`,195,875,
+	def ,`POINT00002`,280,894,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Email#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10016`,`G_TEXT`,OBJ1506906617,
+	OBJ1506906618 == 0
+	push_object OBJ1506906618
+	def ,`POINT00001`,86,903,
+	def ,`POINT00002`,714,927,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,#@Copyright{#,yes,
+	def ,`styleclass`,CS1506906628,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10017`,`G_TEXT`,OBJ1506906618,
+	OBJ1506906619 == 0
+	push_object OBJ1506906619
+	def ,`POINT00001`,108,345,
+	def ,`POINT00002`,325,372,
+	def ,`font`,`Verdana#9#Bold#0#0#0`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1506906665,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10018`,`G_TEXT`,OBJ1506906619,
+	OBJ1506906620 == 0
+	push_object OBJ1506906620
+	def ,`POINT00001`,109,389,
+	def ,`POINT00002`,389,599,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,`Haga doble clic aquí para modificar su texto. Recuerde de agrandar el cuadro de texto al terminar de escribir. Es importante  tener un poco de espacio "libre" al pie de este cuadro. La apariencia de su texto se verá afectada cuando los que miren su sitio tengan fuentes grandes configuradas, en sus exploradores de Web: su texto aparecerá en letras grandes. `,yes,
+	def ,`styleclass`,CS1506906644,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10019`,`G_TEXT`,OBJ1506906620,
+	OBJ1506906621 == 0
+	push_object OBJ1506906621
+	def ,`POINT00001`,405,389,
+	def ,`POINT00002`,686,625,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@TextM#,yes,
+	def ,`styleclass`,CS1506906644,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10020`,`G_TEXT`,OBJ1506906621,
+	OBJ1506906622 == 0
+	push_object OBJ1506906622
+	def ,`POINT00001`,109,649,
+	def ,`POINT00002`,241,778,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0009.jpg`,yes,
+	def ,`name1001`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0009.jpg`,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10021`,`G_IMAGE`,OBJ1506906622,
+	OBJ1506906623 == 0
+	push_object OBJ1506906623
+	def ,`POINT00001`,252,649,
+	def ,`POINT00002`,384,778,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0013.jpg`,yes,
+	def ,`name1001`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0013.jpg`,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10022`,`G_IMAGE`,OBJ1506906623,
+	OBJ1506906624 == 0
+	push_object OBJ1506906624
+	def ,`POINT00001`,550,649,
+	def ,`POINT00002`,682,778,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0059.jpg`,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10023`,`G_IMAGE`,OBJ1506906624,
+	OBJ1506906625 == 0
+	push_object OBJ1506906625
+	def ,`POINT00001`,405,649,
+	def ,`POINT00002`,538,778,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0032.jpg`,yes,
+	def ,`name1001`,`F:\Documentos de Sistema\01 - Mis documentos\Mis imágenes\MP Navigator EX\2011_12_10\selectas\selectisima\IMG_0032.jpg`,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10024`,`G_IMAGE`,OBJ1506906625,
+	OBJ1506906626 == 0
+	push_object OBJ1506906626
+	def ,`POINT00001`,109,649,
+	def ,`POINT00002`,241,778,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#23253f`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10025`,`G_BOX`,OBJ1506906626,
+	OBJ1506906627 == 0
+	push_object OBJ1506906627
+	def ,`POINT00001`,252,649,
+	def ,`POINT00002`,384,778,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#23253f`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10026`,`G_BOX`,OBJ1506906627,
+	OBJ1506906628 == 0
+	push_object OBJ1506906628
+	def ,`POINT00001`,405,649,
+	def ,`POINT00002`,538,778,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#23253f`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10027`,`G_BOX`,OBJ1506906628,
+	OBJ1506906629 == 0
+	push_object OBJ1506906629
+	def ,`POINT00001`,550,649,
+	def ,`POINT00002`,682,778,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#23253f`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10028`,`G_BOX`,OBJ1506906629,
+	GTX202144 == 0
+	push_object GTX202144
+	def ,`POINT00001`,77,75,
+	def ,`POINT00002`,412,233,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`9`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`#00ff00`,yes,
+	def ,`font`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`font1001`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,0,yes,
+	def ,`name`,`Entre Poemeas y Teoremas`,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10029`,`G_TEXT`,GTX202144,
+	GR150690660 == 0
+	push_object GR150690660
+	def ,`object`,OBJ150690661,yes,
+	def ,`object`,OBJ150690662,yes,
+	def ,`object`,OBJ150690663,yes,
+	def ,`object`,OBJ150690664,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150690660,yes,
+	GR150690661 == 0
+	push_object GR150690661
+	def ,`object`,OBJ1506906622,yes,
+	def ,`object`,OBJ1506906626,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150690661,yes,
+	GR150690663 == 0
+	push_object GR150690663
+	def ,`object`,OBJ1506906628,yes,
+	def ,`object`,OBJ1506906625,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR150690663,yes,
+	GR150690664 == 0
+	push_object GR150690664
+	def ,`object`,OBJ1506906629,yes,
+	def ,`object`,OBJ1506906624,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00004`,GR150690664,yes,
+	GR162200 == 0
+	push_object GR162200
+	def ,`object`,OBJ1506906627,yes,
+	def ,`object`,OBJ1506906623,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00005`,GR162200,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`thumb`,15,yes,
+	def ,`title`,#@Home#,yes,
+	pop_current_object
+	def ,`page001`,PG150690660,yes,
+	PG150690661 == 0
+	push_object PG150690661
+	OBJ1506906630 == 0
+	push_object OBJ1506906630
+	def ,`CROP00001`,0,383,
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,799,384,
+	def ,`fgc`,`black`,yes,
+	def ,`mask`,`Stencils\Fade\fade_top_2_bottom.png`,yes,
+	def ,`name`,`Photos\Nature\dr_i_mn.jpg`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1506906630,
+	OBJ1506906631 == 0
+	push_object OBJ1506906631
+	def ,`POINT00001`,89,834,
+	def ,`POINT00002`,712,893,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1506906629,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ1506906631,
+	OBJ1506906632 == 0
+	push_object OBJ1506906632
+	def ,`POINT00001`,86,367,
+	def ,`POINT00002`,88,896,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1506906632,
+	OBJ1506906633 == 0
+	push_object OBJ1506906633
+	def ,`POINT00001`,713,366,
+	def ,`POINT00002`,715,895,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ1506906633,
+	OBJ1506906634 == 0
+	push_object OBJ1506906634
+	def ,`POINT00001`,88,893,
+	def ,`POINT00002`,715,896,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ1506906634,
+	OBJ1506906635 == 0
+	push_object OBJ1506906635
+	def ,`POINT00001`,88,830,
+	def ,`POINT00002`,713,832,
+	def ,`brightness`,215,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ1506906635,
+	OBJ1506906636 == 0
+	push_object OBJ1506906636
+	def ,`POINT00001`,86,326,
+	def ,`POINT00002`,714,900,
+	def ,`bgc`,`#bfc1d7`,yes,
+	def ,`lock`,yes,yes,
+	def ,`mask`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`black`,yes,
+	def ,`shadow_diffuse`,7,yes,
+	def ,`shadow_intensity`,19,yes,
+	def ,`shadow_offset_x`,0,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ1506906636,
+	OBJ1506906637 == 0
+	push_object OBJ1506906637
+	def ,`POINT00001`,86,275,
+	def ,`POINT00002`,714,307,
+	def ,`brightness`,-150,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`lock`,yes,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ1506906637,
+	OBJ1506906638 == 0
+	push_object OBJ1506906638
+	def ,`POINT00001`,86,780,
+	def ,`POINT00002`,210,899,
+	def ,`fgc`,`black`,yes,
+	def ,`mask`,`Stencils\Fade\fade_oval.png`,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ1506906638,
+	OBJ1506906640 == 0
+	push_object OBJ1506906640
+	def ,`POINT00001`,116,811,
+	def ,`POINT00002`,183,854,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Arial#14#Bold#0#0#0`,yes,
+	def ,`name`,`Logo`,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10009`,`G_TEXT`,OBJ1506906640,
+	OBJ1506906641 == 0
+	push_object OBJ1506906641
+	def ,`POINT00001`,89,277,
+	def ,`POINT00002`,186,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,`Portada`,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10010`,`G_TEXT`,OBJ1506906641,
+	OBJ1506906642 == 0
+	push_object OBJ1506906642
+	def ,`POINT00001`,191,277,
+	def ,`POINT00002`,288,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1506906658,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ1506906642,
+	OBJ1506906643 == 0
+	push_object OBJ1506906643
+	def ,`POINT00001`,294,277,
+	def ,`POINT00002`,391,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 3`,yes,
+	def ,`name`,#@Gallery#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10012`,`G_TEXT`,OBJ1506906643,
+	OBJ1506906644 == 0
+	push_object OBJ1506906644
+	def ,`POINT00001`,396,277,
+	def ,`POINT00002`,493,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 4`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10013`,`G_TEXT`,OBJ1506906644,
+	OBJ1506906645 == 0
+	push_object OBJ1506906645
+	def ,`POINT00001`,195,835,
+	def ,`POINT00002`,280,854,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,`Nombre`,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ1506906645,
+	OBJ1506906646 == 0
+	push_object OBJ1506906646
+	def ,`POINT00001`,195,855,
+	def ,`POINT00002`,280,874,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,`Dirección`,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10015`,`G_TEXT`,OBJ1506906646,
+	OBJ1506906647 == 0
+	push_object OBJ1506906647
+	def ,`POINT00001`,195,875,
+	def ,`POINT00002`,280,894,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Email#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10016`,`G_TEXT`,OBJ1506906647,
+	OBJ1506906648 == 0
+	push_object OBJ1506906648
+	def ,`POINT00001`,86,903,
+	def ,`POINT00002`,714,927,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,#@Copyright{#,yes,
+	def ,`styleclass`,CS1506906628,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10017`,`G_TEXT`,OBJ1506906648,
+	OBJ1506906649 == 0
+	push_object OBJ1506906649
+	def ,`POINT00001`,108,345,
+	def ,`POINT00002`,325,372,
+	def ,`font`,`Verdana#9#Bold#0#0#0`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1506906665,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10018`,`G_TEXT`,OBJ1506906649,
+	OBJ1506906650 == 0
+	push_object OBJ1506906650
+	def ,`POINT00001`,109,389,
+	def ,`POINT00002`,389,788,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1506906644,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10019`,`G_TEXT`,OBJ1506906650,
+	OBJ1506906651 == 0
+	push_object OBJ1506906651
+	def ,`POINT00001`,438,397,
+	def ,`POINT00002`,677,770,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,`H:\Archivos Comunes\Fotos Del Recuerdo\DCIM\105_FUJI\output\DSCF4138s.JPG`,yes,
+	def ,`name1001`,`H:\Archivos Comunes\Fotos Del Recuerdo\DCIM\105_FUJI\output\DSCF4138s.JPG`,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10020`,`G_IMAGE`,OBJ1506906651,
+	OBJ1506906652 == 0
+	push_object OBJ1506906652
+	def ,`POINT00001`,438,397,
+	def ,`POINT00002`,677,770,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#23253f`,yes,
+	def ,`shadow_diffuse`,5,yes,
+	def ,`shadow_intensity`,80,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10021`,`G_BOX`,OBJ1506906652,
+	GTX202324 == 0
+	push_object GTX202324
+	def ,`POINT00001`,77,75,
+	def ,`POINT00002`,412,233,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`9`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`#00ff00`,yes,
+	def ,`font`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`font1001`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,0,yes,
+	def ,`name`,`Entre Poemeas y Teoremas`,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10022`,`G_TEXT`,GTX202324,
+	GR150690665 == 0
+	push_object GR150690665
+	def ,`object`,OBJ1506906632,yes,
+	def ,`object`,OBJ1506906633,yes,
+	def ,`object`,OBJ1506906634,yes,
+	def ,`object`,OBJ1506906635,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150690665,yes,
+	GR150690666 == 0
+	push_object GR150690666
+	def ,`object`,OBJ1506906651,yes,
+	def ,`object`,OBJ1506906652,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150690666,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`thumb`,10,yes,
+	def ,`title`,#@AboutUs#,yes,
+	pop_current_object
+	def ,`page002`,PG150690661,yes,
+	PG150690662 == 0
+	push_object PG150690662
+	OBJ1506906653 == 0
+	push_object OBJ1506906653
+	def ,`CROP00001`,0,383,
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,799,384,
+	def ,`fgc`,`black`,yes,
+	def ,`mask`,`Stencils\Fade\fade_top_2_bottom.png`,yes,
+	def ,`name`,`Photos\Nature\dr_i_mn.jpg`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1506906653,
+	OBJ1506906654 == 0
+	push_object OBJ1506906654
+	def ,`POINT00001`,89,834,
+	def ,`POINT00002`,712,893,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1506906629,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ1506906654,
+	OBJ1506906655 == 0
+	push_object OBJ1506906655
+	def ,`POINT00001`,86,367,
+	def ,`POINT00002`,88,896,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1506906655,
+	OBJ1506906656 == 0
+	push_object OBJ1506906656
+	def ,`POINT00001`,713,366,
+	def ,`POINT00002`,715,895,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ1506906656,
+	OBJ1506906657 == 0
+	push_object OBJ1506906657
+	def ,`POINT00001`,88,893,
+	def ,`POINT00002`,715,896,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ1506906657,
+	OBJ1506906658 == 0
+	push_object OBJ1506906658
+	def ,`POINT00001`,88,830,
+	def ,`POINT00002`,713,832,
+	def ,`brightness`,215,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ1506906658,
+	OBJ1506906659 == 0
+	push_object OBJ1506906659
+	def ,`POINT00001`,86,326,
+	def ,`POINT00002`,714,900,
+	def ,`bgc`,`#bfc1d7`,yes,
+	def ,`lock`,yes,yes,
+	def ,`mask`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`black`,yes,
+	def ,`shadow_diffuse`,7,yes,
+	def ,`shadow_intensity`,19,yes,
+	def ,`shadow_offset_x`,0,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ1506906659,
+	OBJ1506906660 == 0
+	push_object OBJ1506906660
+	def ,`POINT00001`,86,275,
+	def ,`POINT00002`,714,307,
+	def ,`brightness`,-150,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`lock`,yes,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ1506906660,
+	OBJ1506906661 == 0
+	push_object OBJ1506906661
+	def ,`POINT00001`,86,780,
+	def ,`POINT00002`,210,899,
+	def ,`fgc`,`black`,yes,
+	def ,`mask`,`Stencils\Fade\fade_oval.png`,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ1506906661,
+	OBJ1506906663 == 0
+	push_object OBJ1506906663
+	def ,`POINT00001`,116,811,
+	def ,`POINT00002`,183,854,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Arial#14#Bold#0#0#0`,yes,
+	def ,`name`,#@logo=#,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10009`,`G_TEXT`,OBJ1506906663,
+	OBJ1506906664 == 0
+	push_object OBJ1506906664
+	def ,`POINT00001`,89,277,
+	def ,`POINT00002`,186,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10010`,`G_TEXT`,OBJ1506906664,
+	OBJ1506906665 == 0
+	push_object OBJ1506906665
+	def ,`POINT00001`,191,277,
+	def ,`POINT00002`,288,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ1506906665,
+	OBJ1506906666 == 0
+	push_object OBJ1506906666
+	def ,`POINT00001`,294,277,
+	def ,`POINT00002`,391,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`name`,#@Gallery#,yes,
+	def ,`styleclass`,CS1506906658,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10012`,`G_TEXT`,OBJ1506906666,
+	OBJ1506906667 == 0
+	push_object OBJ1506906667
+	def ,`POINT00001`,396,277,
+	def ,`POINT00002`,493,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 4`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10013`,`G_TEXT`,OBJ1506906667,
+	OBJ1506906668 == 0
+	push_object OBJ1506906668
+	def ,`POINT00001`,195,835,
+	def ,`POINT00002`,280,854,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Name#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ1506906668,
+	OBJ1506906669 == 0
+	push_object OBJ1506906669
+	def ,`POINT00001`,195,855,
+	def ,`POINT00002`,280,874,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Address#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10015`,`G_TEXT`,OBJ1506906669,
+	OBJ1506906670 == 0
+	push_object OBJ1506906670
+	def ,`POINT00001`,195,875,
+	def ,`POINT00002`,280,894,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Email#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10016`,`G_TEXT`,OBJ1506906670,
+	OBJ1506906671 == 0
+	push_object OBJ1506906671
+	def ,`POINT00001`,86,903,
+	def ,`POINT00002`,714,927,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,#@Copyright{#,yes,
+	def ,`styleclass`,CS1506906628,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10017`,`G_TEXT`,OBJ1506906671,
+	OBJ1506906672 == 0
+	push_object OBJ1506906672
+	def ,`POINT00001`,108,345,
+	def ,`POINT00002`,325,372,
+	def ,`font`,`Verdana#9#Bold#0#0#0`,yes,
+	def ,`name`,#@Gallery#,yes,
+	def ,`styleclass`,CS1506906665,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10018`,`G_TEXT`,OBJ1506906672,
+	OBJ1506906673 == 0
+	push_object OBJ1506906673
+	def ,`POINT00001`,109,399,
+	def ,`POINT00002`,241,528,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10019`,`G_IMAGE`,OBJ1506906673,
+	OBJ1506906674 == 0
+	push_object OBJ1506906674
+	def ,`POINT00001`,252,399,
+	def ,`POINT00002`,384,528,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10020`,`G_IMAGE`,OBJ1506906674,
+	OBJ1506906675 == 0
+	push_object OBJ1506906675
+	def ,`POINT00001`,550,399,
+	def ,`POINT00002`,682,528,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10021`,`G_IMAGE`,OBJ1506906675,
+	OBJ1506906676 == 0
+	push_object OBJ1506906676
+	def ,`POINT00001`,405,399,
+	def ,`POINT00002`,538,528,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10022`,`G_IMAGE`,OBJ1506906676,
+	OBJ1506906677 == 0
+	push_object OBJ1506906677
+	def ,`POINT00001`,109,541,
+	def ,`POINT00002`,241,670,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10023`,`G_IMAGE`,OBJ1506906677,
+	OBJ1506906678 == 0
+	push_object OBJ1506906678
+	def ,`POINT00001`,252,541,
+	def ,`POINT00002`,384,670,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10024`,`G_IMAGE`,OBJ1506906678,
+	OBJ1506906679 == 0
+	push_object OBJ1506906679
+	def ,`POINT00001`,550,541,
+	def ,`POINT00002`,682,670,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10025`,`G_IMAGE`,OBJ1506906679,
+	OBJ1506906680 == 0
+	push_object OBJ1506906680
+	def ,`POINT00001`,405,541,
+	def ,`POINT00002`,538,670,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10026`,`G_IMAGE`,OBJ1506906680,
+	OBJ1506906681 == 0
+	push_object OBJ1506906681
+	def ,`POINT00001`,109,683,
+	def ,`POINT00002`,241,812,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10027`,`G_IMAGE`,OBJ1506906681,
+	OBJ1506906682 == 0
+	push_object OBJ1506906682
+	def ,`POINT00001`,252,683,
+	def ,`POINT00002`,384,812,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10028`,`G_IMAGE`,OBJ1506906682,
+	OBJ1506906683 == 0
+	push_object OBJ1506906683
+	def ,`POINT00001`,550,683,
+	def ,`POINT00002`,682,812,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10029`,`G_IMAGE`,OBJ1506906683,
+	OBJ1506906684 == 0
+	push_object OBJ1506906684
+	def ,`POINT00001`,405,683,
+	def ,`POINT00002`,538,812,
+	def ,`fgc`,`black`,yes,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10030`,`G_IMAGE`,OBJ1506906684,
+	OBJ1506906685 == 0
+	push_object OBJ1506906685
+	def ,`POINT00001`,109,399,
+	def ,`POINT00002`,241,528,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10031`,`G_BOX`,OBJ1506906685,
+	OBJ1506906686 == 0
+	push_object OBJ1506906686
+	def ,`POINT00001`,252,399,
+	def ,`POINT00002`,384,528,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10032`,`G_BOX`,OBJ1506906686,
+	OBJ1506906687 == 0
+	push_object OBJ1506906687
+	def ,`POINT00001`,405,399,
+	def ,`POINT00002`,538,528,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10033`,`G_BOX`,OBJ1506906687,
+	OBJ1506906688 == 0
+	push_object OBJ1506906688
+	def ,`POINT00001`,550,399,
+	def ,`POINT00002`,682,528,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10034`,`G_BOX`,OBJ1506906688,
+	OBJ1506906689 == 0
+	push_object OBJ1506906689
+	def ,`POINT00001`,109,541,
+	def ,`POINT00002`,241,670,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10035`,`G_BOX`,OBJ1506906689,
+	OBJ1506906690 == 0
+	push_object OBJ1506906690
+	def ,`POINT00001`,252,541,
+	def ,`POINT00002`,384,670,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10036`,`G_BOX`,OBJ1506906690,
+	OBJ1506906691 == 0
+	push_object OBJ1506906691
+	def ,`POINT00001`,405,541,
+	def ,`POINT00002`,538,670,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10037`,`G_BOX`,OBJ1506906691,
+	OBJ1506906692 == 0
+	push_object OBJ1506906692
+	def ,`POINT00001`,550,541,
+	def ,`POINT00002`,682,670,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10038`,`G_BOX`,OBJ1506906692,
+	OBJ1506906693 == 0
+	push_object OBJ1506906693
+	def ,`POINT00001`,109,683,
+	def ,`POINT00002`,241,812,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10039`,`G_BOX`,OBJ1506906693,
+	OBJ1506906694 == 0
+	push_object OBJ1506906694
+	def ,`POINT00001`,252,683,
+	def ,`POINT00002`,384,812,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10040`,`G_BOX`,OBJ1506906694,
+	OBJ1506906695 == 0
+	push_object OBJ1506906695
+	def ,`POINT00001`,405,683,
+	def ,`POINT00002`,538,812,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10041`,`G_BOX`,OBJ1506906695,
+	OBJ1506906696 == 0
+	push_object OBJ1506906696
+	def ,`POINT00001`,550,683,
+	def ,`POINT00002`,682,812,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10042`,`G_BOX`,OBJ1506906696,
+	GTX202336 == 0
+	push_object GTX202336
+	def ,`POINT00001`,77,75,
+	def ,`POINT00002`,412,233,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`9`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`#00ff00`,yes,
+	def ,`font`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`font1001`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,0,yes,
+	def ,`name`,`Entre Poemeas y Teoremas`,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10043`,`G_TEXT`,GTX202336,
+	GR150690667 == 0
+	push_object GR150690667
+	def ,`object`,OBJ1506906655,yes,
+	def ,`object`,OBJ1506906656,yes,
+	def ,`object`,OBJ1506906657,yes,
+	def ,`object`,OBJ1506906658,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150690667,yes,
+	GR150690668 == 0
+	push_object GR150690668
+	def ,`object`,OBJ1506906673,yes,
+	def ,`object`,OBJ1506906685,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150690668,yes,
+	GR150690669 == 0
+	push_object GR150690669
+	def ,`object`,OBJ1506906674,yes,
+	def ,`object`,OBJ1506906686,yes,
+end
+begin
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR150690669,yes,
+	GR1506906610 == 0
+	push_object GR1506906610
+	def ,`object`,OBJ1506906676,yes,
+	def ,`object`,OBJ1506906687,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00004`,GR1506906610,yes,
+	GR1506906611 == 0
+	push_object GR1506906611
+	def ,`object`,OBJ1506906675,yes,
+	def ,`object`,OBJ1506906688,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00005`,GR1506906611,yes,
+	GR1506906612 == 0
+	push_object GR1506906612
+	def ,`object`,OBJ1506906677,yes,
+	def ,`object`,OBJ1506906689,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00006`,GR1506906612,yes,
+	GR1506906613 == 0
+	push_object GR1506906613
+	def ,`object`,OBJ1506906678,yes,
+	def ,`object`,OBJ1506906690,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00007`,GR1506906613,yes,
+	GR1506906614 == 0
+	push_object GR1506906614
+	def ,`object`,OBJ1506906680,yes,
+	def ,`object`,OBJ1506906691,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00008`,GR1506906614,yes,
+	GR1506906615 == 0
+	push_object GR1506906615
+	def ,`object`,OBJ1506906679,yes,
+	def ,`object`,OBJ1506906692,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00009`,GR1506906615,yes,
+	GR1506906616 == 0
+	push_object GR1506906616
+	def ,`object`,OBJ1506906681,yes,
+	def ,`object`,OBJ1506906693,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00010`,GR1506906616,yes,
+	GR1506906617 == 0
+	push_object GR1506906617
+	def ,`object`,OBJ1506906682,yes,
+	def ,`object`,OBJ1506906694,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00011`,GR1506906617,yes,
+	GR1506906618 == 0
+	push_object GR1506906618
+	def ,`object`,OBJ1506906684,yes,
+	def ,`object`,OBJ1506906695,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00012`,GR1506906618,yes,
+	GR1506906619 == 0
+	push_object GR1506906619
+	def ,`object`,OBJ1506906683,yes,
+	def ,`object`,OBJ1506906696,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00013`,GR1506906619,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`thumb`,8,yes,
+	def ,`title`,#@Gallery#,yes,
+	pop_current_object
+	def ,`page003`,PG150690662,yes,
+	PG150690663 == 0
+	push_object PG150690663
+	OBJ1506906697 == 0
+	push_object OBJ1506906697
+	def ,`CROP00001`,0,383,
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,799,384,
+	def ,`fgc`,`black`,yes,
+	def ,`mask`,`Stencils\Fade\fade_top_2_bottom.png`,yes,
+	def ,`name`,`Photos\Nature\dr_i_mn.jpg`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1506906697,
+	OBJ1506906698 == 0
+	push_object OBJ1506906698
+	def ,`POINT00001`,89,834,
+	def ,`POINT00002`,712,893,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,``,yes,
+	def ,`styleclass`,CS1506906629,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ1506906698,
+	OBJ1506906699 == 0
+	push_object OBJ1506906699
+	def ,`POINT00001`,86,367,
+	def ,`POINT00002`,88,896,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1506906699,
+	OBJ15069066100 == 0
+	push_object OBJ15069066100
+	def ,`POINT00001`,713,366,
+	def ,`POINT00002`,715,895,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ15069066100,
+	OBJ15069066101 == 0
+	push_object OBJ15069066101
+	def ,`POINT00001`,88,893,
+	def ,`POINT00002`,715,896,
+	def ,`brightness`,255,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ15069066101,
+	OBJ15069066102 == 0
+	push_object OBJ15069066102
+	def ,`POINT00001`,88,830,
+	def ,`POINT00002`,713,832,
+	def ,`brightness`,215,yes,
+	def ,`fgc`,`#bfc1d7`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`name`,`Stencils\Rectangle\sshape08.png`,yes,
+	def ,`styleclass`,CS1506906626,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ15069066102,
+	OBJ15069066103 == 0
+	push_object OBJ15069066103
+	def ,`POINT00001`,86,326,
+	def ,`POINT00002`,714,900,
+	def ,`bgc`,`#bfc1d7`,yes,
+	def ,`lock`,yes,yes,
+	def ,`mask`,`Stencils\Fade\fade_bottom_2_top.png`,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`black`,yes,
+	def ,`shadow_diffuse`,7,yes,
+	def ,`shadow_intensity`,19,yes,
+	def ,`shadow_offset_x`,0,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ15069066103,
+	OBJ15069066104 == 0
+	push_object OBJ15069066104
+	def ,`POINT00001`,86,275,
+	def ,`POINT00002`,714,307,
+	def ,`brightness`,-150,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`grayscale`,yes,yes,
+	def ,`lock`,yes,yes,
+	def ,`name`,`Stencils\Washes\swash06.png`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ15069066104,
+	OBJ15069066105 == 0
+	push_object OBJ15069066105
+	def ,`POINT00001`,86,776,
+	def ,`POINT00002`,210,895,
+	def ,`fgc`,`black`,yes,
+	def ,`mask`,`Stencils\Fade\fade_oval.png`,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`transparent`,yes,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ15069066105,
+	OBJ15069066107 == 0
+	push_object OBJ15069066107
+	def ,`POINT00001`,116,811,
+	def ,`POINT00002`,183,854,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Arial#18#Bold#0#0#0`,yes,
+	def ,`font1001`,`Arial#18#Bold#0#0#0`,yes,
+	def ,`name`,#@logo=#,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10009`,`G_TEXT`,OBJ15069066107,
+	OBJ15069066108 == 0
+	push_object OBJ15069066108
+	def ,`POINT00001`,89,277,
+	def ,`POINT00002`,186,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10010`,`G_TEXT`,OBJ15069066108,
+	OBJ15069066109 == 0
+	push_object OBJ15069066109
+	def ,`POINT00001`,191,277,
+	def ,`POINT00002`,288,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@AboutUs#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ15069066109,
+	OBJ15069066110 == 0
+	push_object OBJ15069066110
+	def ,`POINT00001`,294,277,
+	def ,`POINT00002`,391,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`link`,`page 3`,yes,
+	def ,`name`,#@Gallery#,yes,
+	def ,`styleclass`,CS1506906653,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10012`,`G_TEXT`,OBJ15069066110,
+	OBJ15069066111 == 0
+	push_object OBJ15069066111
+	def ,`POINT00001`,396,277,
+	def ,`POINT00002`,493,306,
+	def ,`font`,`Verdana#7#Bold#0#0#0`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1506906658,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10013`,`G_TEXT`,OBJ15069066111,
+	OBJ15069066112 == 0
+	push_object OBJ15069066112
+	def ,`POINT00001`,195,835,
+	def ,`POINT00002`,280,854,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Name#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ15069066112,
+	OBJ15069066113 == 0
+	push_object OBJ15069066113
+	def ,`POINT00001`,195,855,
+	def ,`POINT00002`,280,874,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Address#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10015`,`G_TEXT`,OBJ15069066113,
+	OBJ15069066114 == 0
+	push_object OBJ15069066114
+	def ,`POINT00001`,195,875,
+	def ,`POINT00002`,280,894,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Email#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10016`,`G_TEXT`,OBJ15069066114,
+	OBJ15069066115 == 0
+	push_object OBJ15069066115
+	def ,`POINT00001`,86,903,
+	def ,`POINT00002`,714,927,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,#@Copyright{#,yes,
+	def ,`styleclass`,CS1506906628,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10017`,`G_TEXT`,OBJ15069066115,
+	OBJ15069066116 == 0
+	push_object OBJ15069066116
+	def ,`POINT00001`,111,407,
+	def ,`POINT00002`,330,622,
+	def ,`htm_action`,#FormEml#,yes,
+	def ,`java_events`,#$CheckFrm#,yes,
+	def ,`name`,#@FrmFrm#,yes,
+	def ,`scale`,`pixel`,yes,
+	def ,`styleclass`,CS1506906634,yes,
+	def ,`type`,`container`,yes,
+	pop_current_object
+	def ,`10018`,`G_FIELD`,OBJ15069066116,
+	OBJ15069066117 == 0
+	push_object OBJ15069066117
+	def ,`POINT00001`,125,410,
+	def ,`POINT00002`,219,428,
+	def ,`font`,`Times New Roman#7#Normal#0#0#`,yes,
+	def ,`name`,#@Contacts#,yes,
+	def ,`styleclass`,CS1506906633,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10019`,`G_TEXT`,OBJ15069066117,
+	OBJ15069066118 == 0
+	push_object OBJ15069066118
+	def ,`POINT00001`,123,444,
+	def ,`POINT00002`,192,463,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Name#,yes,
+	def ,`styleclass`,CS1506906632,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10020`,`G_TEXT`,OBJ15069066118,
+	OBJ15069066119 == 0
+	push_object OBJ15069066119
+	def ,`POINT00001`,128,468,
+	def ,`POINT00002`,323,483,
+	def ,`font`,`Arial#10#Normal#0#0#0`,yes,
+	def ,`htm_name`,`Name`,yes,
+	def ,`htm_title`,#@Name#,yes,
+	def ,`scale`,`pixel`,yes,
+	def ,`styleclass`,CS1506906631,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`text`,yes,
+	pop_current_object
+	def ,`10021`,`G_FIELD`,OBJ15069066119,
+	OBJ15069066120 == 0
+	push_object OBJ15069066120
+	def ,`POINT00001`,123,494,
+	def ,`POINT00002`,192,513,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Phone#,yes,
+	def ,`styleclass`,CS1506906632,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10022`,`G_TEXT`,OBJ15069066120,
+	OBJ15069066121 == 0
+	push_object OBJ15069066121
+	def ,`POINT00001`,127,519,
+	def ,`POINT00002`,322,534,
+	def ,`font`,`Arial#10#Normal#0#0#0`,yes,
+	def ,`htm_name`,`Phone`,yes,
+	def ,`htm_title`,#@Phone#,yes,
+	def ,`scale`,`pixel`,yes,
+	def ,`styleclass`,CS1506906631,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`text`,yes,
+	pop_current_object
+	def ,`10023`,`G_FIELD`,OBJ15069066121,
+	OBJ15069066122 == 0
+	push_object OBJ15069066122
+	def ,`POINT00001`,123,544,
+	def ,`POINT00002`,192,563,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Email#,yes,
+	def ,`styleclass`,CS1506906632,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10024`,`G_TEXT`,OBJ15069066122,
+	OBJ15069066123 == 0
+	push_object OBJ15069066123
+	def ,`POINT00001`,127,570,
+	def ,`POINT00002`,321,585,
+	def ,`font`,`Arial#10#Normal#0#0#0`,yes,
+	def ,`htm_name`,`Email`,yes,
+	def ,`htm_title`,#@Email#,yes,
+	def ,`scale`,`pixel`,yes,
+	def ,`styleclass`,CS1506906631,yes,
+	def ,`transparent`,no,yes,
+	def ,`type`,`text`,yes,
+	pop_current_object
+	def ,`10025`,`G_FIELD`,OBJ15069066123,
+	OBJ15069066124 == 0
+	push_object OBJ15069066124
+	def ,`POINT00001`,126,597,
+	def ,`POINT00002`,223,618,
+	def ,`htm_btn`,`submit`,yes,
+	def ,`htm_title`,#@SendsBtn#,yes,
+	def ,`htm_value`,#@SendsBtn#,yes,
+	def ,`name`,#@SendsBtn#,yes,
+	def ,`scale`,`pixel`,yes,
+	def ,`styleclass`,CS1506906630,yes,
+	def ,`type`,`button`,yes,
+	pop_current_object
+	def ,`10026`,`G_FIELD`,OBJ15069066124,
+	OBJ15069066125 == 0
+	push_object OBJ15069066125
+	def ,`POINT00001`,227,597,
+	def ,`POINT00002`,323,618,
+	def ,`htm_btn`,`reset`,yes,
+	def ,`htm_title`,#@ClearBtn#,yes,
+	def ,`htm_value`,#@ClearBtn#,yes,
+	def ,`name`,#@ClearBtn#,yes,
+	def ,`scale`,`pixel`,yes,
+	def ,`styleclass`,CS1506906630,yes,
+	def ,`type`,`button`,yes,
+	pop_current_object
+	def ,`10027`,`G_FIELD`,OBJ15069066125,
+	OBJ15069066126 == 0
+	push_object OBJ15069066126
+	def ,`POINT00001`,108,345,
+	def ,`POINT00002`,325,372,
+	def ,`font`,`Verdana#9#Bold#0#0#0`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1506906665,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10028`,`G_TEXT`,OBJ15069066126,
+	OBJ15069066127 == 0
+	push_object OBJ15069066127
+	def ,`POINT00001`,108,647,
+	def ,`POINT00002`,388,712,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Address{#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10029`,`G_TEXT`,OBJ15069066127,
+	OBJ15069066128 == 0
+	push_object OBJ15069066128
+	def ,`POINT00001`,108,716,
+	def ,`POINT00002`,166,734,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Phone#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10030`,`G_TEXT`,OBJ15069066128,
+	OBJ15069066129 == 0
+	push_object OBJ15069066129
+	def ,`POINT00001`,108,746,
+	def ,`POINT00002`,166,764,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Fax#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10031`,`G_TEXT`,OBJ15069066129,
+	OBJ15069066130 == 0
+	push_object OBJ15069066130
+	def ,`POINT00001`,170,716,
+	def ,`POINT00002`,337,734,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Phone{#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10032`,`G_TEXT`,OBJ15069066130,
+	OBJ15069066131 == 0
+	push_object OBJ15069066131
+	def ,`POINT00001`,170,746,
+	def ,`POINT00002`,337,764,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`name`,#@Fax{#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10033`,`G_TEXT`,OBJ15069066131,
+	OBJ15069066132 == 0
+	push_object OBJ15069066132
+	def ,`POINT00001`,108,776,
+	def ,`POINT00002`,274,794,
+	def ,`font`,`Verdana#6#Normal#0#0#0`,yes,
+	def ,`link`,#EmailLnk#,yes,
+	def ,`name`,#@YourEmail#,yes,
+	def ,`styleclass`,CS1506906623,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10034`,`G_TEXT`,OBJ15069066132,
+	OBJ15069066133 == 0
+	push_object OBJ15069066133
+	def ,`POINT00001`,550,649,
+	def ,`POINT00002`,682,778,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10035`,`G_IMAGE`,OBJ15069066133,
+	OBJ15069066134 == 0
+	push_object OBJ15069066134
+	def ,`POINT00001`,405,649,
+	def ,`POINT00002`,538,778,
+	def ,`htm_title`,#@photo_tag=#,yes,
+	def ,`name`,#PhotoDrop#,yes,
+	def ,`styleclass`,CS1506906668,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10036`,`G_IMAGE`,OBJ15069066134,
+	OBJ15069066135 == 0
+	push_object OBJ15069066135
+	def ,`POINT00001`,405,649,
+	def ,`POINT00002`,538,778,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10037`,`G_BOX`,OBJ15069066135,
+	OBJ15069066136 == 0
+	push_object OBJ15069066136
+	def ,`POINT00001`,550,649,
+	def ,`POINT00002`,682,778,
+	def ,`fgc`,`black`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,4,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`#212238`,yes,
+	def ,`shadow_diffuse`,2,yes,
+	def ,`shadow_intensity`,100,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`styleclass`,CS1506906669,yes,
+	def ,`type`,`G_BOX`,yes,
+	pop_current_object
+	def ,`10038`,`G_BOX`,OBJ15069066136,
+	GTX202341 == 0
+	push_object GTX202341
+	def ,`POINT00001`,77,75,
+	def ,`POINT00002`,412,233,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`9`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`#00ff00`,yes,
+	def ,`font`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`font1001`,`AR CENA#48#Normal#0#0#0`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,0,yes,
+	def ,`name`,`Entre Poemeas y Teoremas`,yes,
+	def ,`styleclass`,CS1506906650,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`center`,yes,
+	pop_current_object
+	def ,`10039`,`G_TEXT`,GTX202341,
+	GR1506906620 == 0
+	push_object GR1506906620
+	def ,`object`,OBJ1506906699,yes,
+	def ,`object`,OBJ15069066100,yes,
+	def ,`object`,OBJ15069066101,yes,
+	def ,`object`,OBJ15069066102,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR1506906620,yes,
+	GR1506906621 == 0
+	push_object GR1506906621
+	def ,`object`,OBJ15069066134,yes,
+	def ,`object`,OBJ15069066135,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR1506906621,yes,
+	GR1506906622 == 0
+	push_object GR1506906622
+	def ,`object`,OBJ15069066133,yes,
+	def ,`object`,OBJ15069066136,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR1506906622,yes,
+	def ,`styleclass`,CS1506906663,yes,
+	def ,`thumb`,9,yes,
+	def ,`title`,#@ContactUs#,yes,
+	pop_current_object
+	def ,`page004`,PG150690663,yes,
+	def ,`page_depth`,950,yes,
+	def ,`page_type`,`Okito`,yes,
+	def ,`page_width`,800,yes,
+	def ,`row`,0,yes,
+	def ,`scale_unit`,`pixel`,yes,
+	def ,`scene_view`,1,yes,
+	SCS150690660 == 0
+	push_object SCS150690660
+	CS150690660 == 0
+	push_object CS150690660
+	def ,`css`,`text-decoration :underline;`,yes,
+	pop_current_object
+	def ,`<A:hover>`,CS150690660,yes,
+	CS150690661 == 0
+	push_object CS150690661
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`<A:link>`,CS150690661,yes,
+	CS150690662 == 0
+	push_object CS150690662
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`<A:visited>`,CS150690662,yes,
+	def ,`<a:hover>`,CS150690663,yes,
+	def ,`<a:link>`,CS150690664,yes,
+	def ,`<a:visited>`,CS150690665,yes,
+	def ,`<address>`,CS150690666,yes,
+	def ,`<body>`,CS150690667,yes,
+	def ,`<cite>`,CS150690668,yes,
+	def ,`<code>`,CS150690669,yes,
+	def ,`<em>`,CS1506906610,yes,
+	def ,`<h1>`,CS1506906611,yes,
+	def ,`<h2>`,CS1506906612,yes,
+	def ,`<h3>`,CS1506906613,yes,
+	def ,`<h4>`,CS1506906614,yes,
+	def ,`<h5>`,CS1506906615,yes,
+	def ,`<h6>`,CS1506906616,yes,
+	def ,`<small>`,CS1506906617,yes,
+	CS1506906618 == 0
+	push_object CS1506906618
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,no,yes,
+	pop_current_object
+	def ,`<table.ct07 .ch07 th>`,CS1506906618,yes,
+	CS1506906619 == 0
+	push_object CS1506906619
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`<table.ct07 caption>`,CS1506906619,yes,
+	CS1506906620 == 0
+	push_object CS1506906620
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`<table.ct07 td>`,CS1506906620,yes,
+	CS1506906621 == 0
+	push_object CS1506906621
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,no,yes,
+	pop_current_object
+	def ,`<table.ct07 th>`,CS1506906621,yes,
+	CS1506906622 == 0
+	push_object CS1506906622
+	def ,`border`,`rectangle`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`<table.ct07>`,CS1506906622,yes,
+	CS1506906623 == 0
+	push_object CS1506906623
+	def ,`bgc`,`#000000`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`padding`,2,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`address`,CS1506906623,yes,
+	CS1506906624 == 0
+	push_object CS1506906624
+	def ,`font`,`Arial#10#Normal#1#0#0`,yes,
+	def ,`tag`,`CITE`,yes,
+	pop_current_object
+	def ,`citation`,CS1506906624,yes,
+	CS1506906625 == 0
+	push_object CS1506906625
+	def ,`font`,`Courier New#10#Normal#0#0#0`,yes,
+	def ,`tag`,`CODE`,yes,
+	pop_current_object
+	def ,`code`,CS1506906625,yes,
+	CS1506906626 == 0
+	push_object CS1506906626
+	def ,`adjust rgb`,`0 0 0`,yes,
+	def ,`bgc`,`#c0c0c0`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	pop_current_object
+	def ,`deco`,CS1506906626,yes,
+	CS1506906627 == 0
+	push_object CS1506906627
+	def ,`font`,`Arial#10#Bold#0#0#0`,yes,
+	def ,`tag`,`EM`,yes,
+	pop_current_object
+	def ,`emphasis`,CS1506906627,yes,
+	CS1506906628 == 0
+	push_object CS1506906628
+	def ,`justify`,`center`,yes,
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`footer`,CS1506906628,yes,
+	CS1506906629 == 0
+	push_object CS1506906629
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`footer_box`,CS1506906629,yes,
+	CS1506906630 == 0
+	push_object CS1506906630
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Verdana#8#Bold#0#0#0`,yes,
+	pop_current_object
+	def ,`form_button`,CS1506906630,yes,
+	CS1506906631 == 0
+	push_object CS1506906631
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`form_input`,CS1506906631,yes,
+	CS1506906632 == 0
+	push_object CS1506906632
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`form_label`,CS1506906632,yes,
+	CS1506906633 == 0
+	push_object CS1506906633
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`form_legend`,CS1506906633,yes,
+	CS1506906634 == 0
+	push_object CS1506906634
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`form_set`,CS1506906634,yes,
+	def ,`form_tag`,CS1506906635,yes,
+	CS1506906636 == 0
+	push_object CS1506906636
+	def ,`font`,`Arial#20#Bold#0#0#0`,yes,
+	def ,`tag`,`H1`,yes,
+	pop_current_object
+	def ,`header`,CS1506906636,yes,
+	CS1506906637 == 0
+	push_object CS1506906637
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`header_box`,CS1506906637,yes,
+	CS1506906638 == 0
+	push_object CS1506906638
+	def ,`font`,`Arial#22#Normal#0#0#0`,yes,
+	def ,`tag`,`H1`,yes,
+	pop_current_object
+	def ,`heading1`,CS1506906638,yes,
+	CS1506906639 == 0
+	push_object CS1506906639
+	def ,`font`,`Arial#20#Normal#0#0#0`,yes,
+	def ,`tag`,`H2`,yes,
+	pop_current_object
+	def ,`heading2`,CS1506906639,yes,
+	CS1506906640 == 0
+	push_object CS1506906640
+	def ,`font`,`Arial#18#Normal#0#0#0`,yes,
+	def ,`tag`,`H3`,yes,
+	pop_current_object
+	def ,`heading3`,CS1506906640,yes,
+	CS1506906641 == 0
+	push_object CS1506906641
+	def ,`font`,`Arial#14#Normal#0#0#0`,yes,
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`heading4`,CS1506906641,yes,
+	CS1506906642 == 0
+	push_object CS1506906642
+	def ,`font`,`Arial#12#Normal#0#0#0`,yes,
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`heading5`,CS1506906642,yes,
+	CS1506906643 == 0
+	push_object CS1506906643
+	def ,`font`,`Arial#10#Bold#0#0#0`,yes,
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`heading6`,CS1506906643,yes,
+	CS1506906644 == 0
+	push_object CS1506906644
+	def ,`bgc`,`#000000`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`info`,CS1506906644,yes,
+	CS1506906645 == 0
+	push_object CS1506906645
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`info_box`,CS1506906645,yes,
+	CS1506906646 == 0
+	push_object CS1506906646
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`info_tag`,CS1506906646,yes,
+	CS1506906647 == 0
+	push_object CS1506906647
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`item`,CS1506906647,yes,
+	CS1506906648 == 0
+	push_object CS1506906648
+	def ,`adjust rgb`,`-49 -85 -192`,yes,
+	def ,`bgc`,`#8f6b00`,yes,
+	def ,`fgc`,`#8f6b00`,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`item_box`,CS1506906648,yes,
+	CS1506906649 == 0
+	push_object CS1506906649
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#8#Bold#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	def ,`tag`,`H5`,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`item_tag`,CS1506906649,yes,
+	CS1506906650 == 0
+	push_object CS1506906650
+	def ,`adjust rgb`,`63 63 63`,yes,
+	def ,`bgc`,`#ffffff`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`logo`,CS1506906650,yes,
+	CS1506906651 == 0
+	push_object CS1506906651
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`logo_box`,CS1506906651,yes,
+	CS1506906652 == 0
+	push_object CS1506906652
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`logo_tag`,CS1506906652,yes,
+	CS1506906653 == 0
+	push_object CS1506906653
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#10#Bold#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`navigation`,CS1506906653,yes,
+	CS1506906654 == 0
+	push_object CS1506906654
+	def ,`css`,`text-decoration :underline;`,yes,
+	pop_current_object
+	def ,`navigation:hover`,CS1506906654,yes,
+	CS1506906655 == 0
+	push_object CS1506906655
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`navigation:link`,CS1506906655,yes,
+	CS1506906656 == 0
+	push_object CS1506906656
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`navigation:visited`,CS1506906656,yes,
+	CS1506906657 == 0
+	push_object CS1506906657
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`navigation_box`,CS1506906657,yes,
+	CS1506906658 == 0
+	push_object CS1506906658
+	def ,`fgc`,`#cc9900`,yes,
+	def ,`font`,`Verdana#10#Bold#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`navigation_pin`,CS1506906658,yes,
+	CS1506906659 == 0
+	push_object CS1506906659
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`navigation_tag`,CS1506906659,yes,
+	CS1506906660 == 0
+	push_object CS1506906660
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`news`,CS1506906660,yes,
+	CS1506906661 == 0
+	push_object CS1506906661
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`news_box`,CS1506906661,yes,
+	CS1506906662 == 0
+	push_object CS1506906662
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`news_tag`,CS1506906662,yes,
+	CS1506906663 == 0
+	push_object CS1506906663
+	def ,`bgc`,`#000000`,yes,
+	pop_current_object
+	def ,`page`,CS1506906663,yes,
+	CS1506906664 == 0
+	push_object CS1506906664
+	def ,`adjust rgb`,`-192 -192 -192`,yes,
+	def ,`bgc`,`#000000`,yes,
+	def ,`fgc`,`#000000`,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`page_box`,CS1506906664,yes,
+	CS1506906665 == 0
+	push_object CS1506906665
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Verdana#12#Bold#0#0#0`,yes,
+	def ,`padding`,2,yes,
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`page_tag`,CS1506906665,yes,
+	CS1506906666 == 0
+	push_object CS1506906666
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`panel`,CS1506906666,yes,
+	CS1506906667 == 0
+	push_object CS1506906667
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`panel_box`,CS1506906667,yes,
+	CS1506906668 == 0
+	push_object CS1506906668
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`photo`,CS1506906668,yes,
+	CS1506906669 == 0
+	push_object CS1506906669
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`photo_box`,CS1506906669,yes,
+	CS1506906670 == 0
+	push_object CS1506906670
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`photo_tag`,CS1506906670,yes,
+	CS1506906671 == 0
+	push_object CS1506906671
+	def ,`font`,`Arial#8#Normal#0#0#0`,yes,
+	def ,`tag`,`SMALL`,yes,
+	pop_current_object
+	def ,`small`,CS1506906671,yes,
+	pop_current_object
+	def ,`styles`,SCS150690660,yes,
+	def ,`win_size`,`maximized`,yes,
+	pop_current_object
+end
+
+;==EndOfFile==

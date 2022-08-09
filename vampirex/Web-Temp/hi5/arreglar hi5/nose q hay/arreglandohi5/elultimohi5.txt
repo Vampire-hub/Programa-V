@@ -1,0 +1,57 @@
+<style type='text/css'>
+<STYLE>a, a.man, a:link, a:visited{font-family:comic sans ms, arial, times new roman;color:FF9900; font-size:14pt; 
+
+font-weight:normal; text-decoration:none; font-style:italic} a:active, a:hover{font-family:comic sans ms, arial, times new 
+
+roman;color:000000; font-size:14pt; font-weight:normal; text-decoration:underline; font-style:normal;}td, table, tr, span, 
+
+li, p, div, textarea, DIV {font-family:comic sans ms, arial, times new roman;color:000000; font-weight:normal; 
+
+font-decoration:none; font-style:normal;background-color:transparent} td, li, p, div, textarea {font-family:comic sans ms, 
+
+arial, times new roman;border-color:00000} table{border-color:000000}a.navbar{font-family:comic sans ms, arial, times new 
+
+roman;font-size:15pt; font-weight:normal} a.navbar:link{color:000000;} a.navbar:active{color:000000;} 
+
+a.navbar:visited{color:000000;} a.navbar:hover{color:000000;}a.searchlinkSmall{font-family:comic sans ms, arial, times new 
+
+roman;font-size:10pt; text-decoration:none; font-weight:normal;} a.searchlinkSmall:link{color:CC0000} 
+
+a.searchlinkSmall:active{color:000000} a.searchlinkSmall:visited{color:CC0000} 
+
+a.searchlinkSmall:hover{color:000000}body{font-family:comic sans ms, arial, times new 
+
+roman;background-color:black;background-image:url(); background-position:center center; background-repeat:no-repeat; 
+
+background-attachment:fixed;}.nametext{font-family:comic sans ms, arial, times new roman;font-size:8pt;color:black; 
+
+font-weight:none;}.blacktext10{font-family:comic sans ms, arial, times new roman;font-size:8pt; color:000000; 
+
+font-weight:normal;}.blacktext12{font-family:comic sans ms, arial, times new roman;font-size:8pt; color:000000; 
+
+font-weight:normal;}.btext, .itext, .text{font-family:comic sans ms, arial, times new roman;font-size:8pt; color:CC0000; 
+
+font-weight:bold;}.orangetext15{font-family:comic sans ms, arial, times new roman;font-size:8pt; color:black; 
+
+font-weight:none;}.lightbluetext8{font-family:comic sans ms, arial, times new roman;font-size:8pt; color:black; 
+
+font-weight:none;}.tmz_imp{font-family:comic sans ms;color:000000;font-weight:bold}a img{border-color:black; 
+
+border-width:2px;border-style:solid;filter:Alpha(Opacity=20)}a:hover img{border-color:black; 
+
+border-width:2px;border-style:solid;filter:none}body{scrollbar-arrow-color:black;scrollbar-Track-Color:black;scrollbar-High
+
+light-Color:black;scrollbar-base-color:black;scrollbar-Face-Color:black;scrollbar-Shadow-Color:black;scrollbar-DarkShadow
+
+-Color:black</STYLE><embed style='display:none' src='' AUTOSTART='True' LOOP='1'></style>
+
+<style type="text/css">body {cursor: url(http://image.blinkyou.com/cursor_images/Raiden VRF.ani); }</style><br /><div><a 
+
+src="http://www.blinkyou.com/images/bycursors.gif" border="0"></a></div><br /></style>
+
+<style type="text/css">A:hover {cursor: url(http://image.blinkyou.com/cursor_images/Atomic Puntero.ani); }</style><br 
+
+/><div><a src="http://www.blinkyou.com/images/bycursors.gif" border="0"></a></div><br /></style>
+</style>
+</style>
+</style>

@@ -1,0 +1,1647 @@
+;
+; Album     21/01/2012 10:59:14
+; Copyright (C) 2010 Avanquest Software. All Rights Reserved.
+; Pages: 4 
+;
+begin
+	IxlaPhotoAlbum == 0
+	push_object IxlaPhotoAlbum
+	def ,`build_as`,`dhtml`,yes,
+	def ,`col`,-2,yes,
+	def ,`cur_page`,1,yes,
+	def ,`depth`,434,yes,
+	def ,`exterior`,`0 0`,no,
+	def ,`htm_dir_img`,`images`,yes,
+	def ,`htm_dir_lnk`,`linked`,yes,
+	def ,`htm_footer`,`center`,yes,
+	def ,`htm_name`,`vampirex`,yes,
+	def ,`htm_path`,`F:\Ediciones Multimedia\vampirex\nuevo01\`,yes,
+	def ,`htm_scroll`,no,yes,
+	def ,`htm_txc_alink`,`#c0c0c0`,yes,
+	def ,`htm_txc_nlink`,`#00ffff`,yes,
+	def ,`htm_txc_vlink`,`#c0c0c0`,yes,
+	def ,`img_type`,`.JPG`,yes,
+	def ,`main_name`,`index.html`,yes,
+	PG150807030 == 0
+	push_object PG150807030
+	OBJ150807030 == 0
+	push_object OBJ150807030
+	def ,`POINT00001`,128,199,
+	def ,`POINT00002`,321,232,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`#000000`,yes,
+	def ,`font`,`Arial#16#Normal#1#0#0`,yes,
+	def ,`name`,`Familia Rodríguez`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10000`,`G_TEXT`,OBJ150807030,
+	OBJ150807031 == 0
+	push_object OBJ150807031
+	def ,`POINT00001`,45,352,
+	def ,`POINT00002`,108,368,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`font`,`Times New Roman#6#Normal#0#0#`,yes,
+	def ,`name`,`Fernando`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ150807031,
+	OBJ150807032 == 0
+	push_object OBJ150807032
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,31,313,
+	def ,`POINT00002`,119,430,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ150807032,
+	OBJ150807033 == 0
+	push_object OBJ150807033
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,31,313,
+	def ,`POINT00002`,119,430,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ150807033,
+	OBJ150807034 == 0
+	push_object OBJ150807034
+	def ,`POINT00001`,206,418,
+	def ,`POINT00002`,246,432,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`font`,`Times New Roman#6#Normal#0#0#`,yes,
+	def ,`name`,`Patricia`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ150807034,
+	OBJ150807035 == 0
+	push_object OBJ150807035
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,188,310,
+	def ,`POINT00002`,276,428,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ150807035,
+	OBJ150807036 == 0
+	push_object OBJ150807036
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,188,310,
+	def ,`POINT00002`,276,428,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ150807036,
+	OBJ150807037 == 0
+	push_object OBJ150807037
+	def ,`POINT00001`,365,94,
+	def ,`POINT00002`,390,107,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`font`,`Times New Roman#6#Normal#0#0#`,yes,
+	def ,`name`,`Juan`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10007`,`G_TEXT`,OBJ150807037,
+	OBJ150807038 == 0
+	push_object OBJ150807038
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,327,30,
+	def ,`POINT00002`,414,145,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ150807038,
+	OBJ150807039 == 0
+	push_object OBJ150807039
+	def ,`POINT00001`,81,179,
+	def ,`POINT00002`,352,249,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`gradient`,`#003300 #000000 90`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`type`,`G_BOXFILL`,yes,
+	pop_current_object
+	def ,`10009`,`G_BOXFILL`,OBJ150807039,
+	OBJ1508070310 == 0
+	push_object OBJ1508070310
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,327,30,
+	def ,`POINT00002`,414,145,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10010`,`G_IMAGE`,OBJ1508070310,
+	OBJ1508070311 == 0
+	push_object OBJ1508070311
+	def ,`POINT00001`,226,97,
+	def ,`POINT00002`,251,111,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`font`,`Times New Roman#6#Normal#0#0#`,yes,
+	def ,`name`,`Pedro`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ1508070311,
+	OBJ1508070312 == 0
+	push_object OBJ1508070312
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,188,30,
+	def ,`POINT00002`,275,147,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10012`,`G_IMAGE`,OBJ1508070312,
+	OBJ1508070313 == 0
+	push_object OBJ1508070313
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,188,30,
+	def ,`POINT00002`,275,147,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10013`,`G_IMAGE`,OBJ1508070313,
+	OBJ1508070314 == 0
+	push_object OBJ1508070314
+	def ,`POINT00001`,39,71,
+	def ,`POINT00002`,70,85,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`font`,`Times New Roman#6#Normal#0#0#`,yes,
+	def ,`name`,`Maria`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ1508070314,
+	OBJ1508070315 == 0
+	push_object OBJ1508070315
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,30,29,
+	def ,`POINT00002`,117,144,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10015`,`G_IMAGE`,OBJ1508070315,
+	OBJ1508070316 == 0
+	push_object OBJ1508070316
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,30,29,
+	def ,`POINT00002`,117,144,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10016`,`G_IMAGE`,OBJ1508070316,
+	OBJ1508070317 == 0
+	push_object OBJ1508070317
+	def ,`POINT00001`,362,359,
+	def ,`POINT00002`,405,372,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`font`,`Times New Roman#6#Normal#0#0#`,yes,
+	def ,`name`,`Guadalupe`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10017`,`G_TEXT`,OBJ1508070317,
+	OBJ1508070318 == 0
+	push_object OBJ1508070318
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,332,309,
+	def ,`POINT00002`,420,427,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10018`,`G_IMAGE`,OBJ1508070318,
+	OBJ1508070319 == 0
+	push_object OBJ1508070319
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,332,309,
+	def ,`POINT00002`,420,427,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10019`,`G_IMAGE`,OBJ1508070319,
+	OBJ1508070320 == 0
+	push_object OBJ1508070320
+	def ,`POINT00001`,91,200,
+	def ,`POINT00002`,345,227,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`#ffff00`,yes,
+	def ,`font`,`Verdana#16#Bold#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,0,yes,
+	def ,`name`,`The Vampire-X`,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`deep_cyan`,yes,
+	def ,`shadow_diffuse`,0,yes,
+	def ,`shadow_intensity`,0,yes,
+	def ,`shadow_offset_x`,3,yes,
+	def ,`shadow_offset_y`,3,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10020`,`G_TEXT`,OBJ1508070320,
+	OBJ1508070321 == 0
+	push_object OBJ1508070321
+	def ,`POINT00001`,122,259,
+	def ,`POINT00002`,317,303,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,2.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`#ffff00`,yes,
+	def ,`font`,`Arial#8#Normal#0#0#0`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,0,yes,
+	def ,`name`,`¡Aquí estamos de nuevo, dispuestos a vencer, hacer y deshacer;  a dar el gran golpe y luego desaparecer!`,yes,
+	def ,`shadow`,yes,yes,
+	def ,`shadow_color`,`white`,yes,
+	def ,`shadow_diffuse`,0,yes,
+	def ,`shadow_intensity`,0,yes,
+	def ,`shadow_offset_x`,1,yes,
+	def ,`shadow_offset_y`,1,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10021`,`G_TEXT`,OBJ1508070321,
+	GR150807030 == 0
+	push_object GR150807030
+	def ,`object`,OBJ150807032,yes,
+	def ,`object`,OBJ150807033,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150807030,yes,
+	GR150807031 == 0
+	push_object GR150807031
+	def ,`object`,OBJ1508070318,yes,
+	def ,`object`,OBJ1508070319,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150807031,yes,
+	GR150807032 == 0
+	push_object GR150807032
+	def ,`object`,OBJ1508070313,yes,
+	def ,`object`,OBJ1508070312,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR150807032,yes,
+	GR150807034 == 0
+	push_object GR150807034
+	def ,`object`,OBJ150807038,yes,
+	def ,`object`,OBJ1508070310,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00004`,GR150807034,yes,
+	GR150807035 == 0
+	push_object GR150807035
+	def ,`object`,OBJ150807035,yes,
+	def ,`object`,OBJ150807036,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00005`,GR150807035,yes,
+	GR104752 == 0
+	push_object GR104752
+	def ,`object`,OBJ1508070316,yes,
+	def ,`object`,OBJ1508070315,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00006`,GR104752,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`font`,`Arial#8#Bold#0#0#0`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`page bgc`,`#000000`,yes,
+	def ,`page gradient`,`#000000 #003300 90`,yes,
+	def ,`thumb`,5,yes,
+	def ,`title`,#@Home#,yes,
+	pop_current_object
+	def ,`page001`,PG150807030,yes,
+	PG150807031 == 0
+	push_object PG150807031
+	OBJ1508070322 == 0
+	push_object OBJ1508070322
+	def ,`POINT00001`,12,129,
+	def ,`POINT00002`,166,214,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`font`,`Times New Roman#8#Bold#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`name`,`Fernando adora los deportes acuáticos y una gran gama de actividades al aire libre. Tiene 36 años y es de Géminis.
+`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10000`,`G_TEXT`,OBJ1508070322,
+	OBJ1508070323 == 0
+	push_object OBJ1508070323
+	def ,`POINT00001`,278,217,
+	def ,`POINT00002`,434,323,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`font`,`Times New Roman#8#Bold#0#0#0`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`name`,`Patricia es una maestra de baile latino con su propia escuela de baile. Tiene
+ 30  años y aspira a tener una cadena de escuelas de baile por todo el país.`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ1508070323,
+	OBJ1508070324 == 0
+	push_object OBJ1508070324
+	def ,`POINT00001`,203,236,
+	def ,`POINT00002`,273,270,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Padres`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10002`,`G_TEXT`,OBJ1508070324,
+	OBJ1508070325 == 0
+	push_object OBJ1508070325
+	def ,`POINT00001`,235,190,
+	def ,`POINT00002`,361,208,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Hijos`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ1508070325,
+	OBJ1508070326 == 0
+	push_object OBJ1508070326
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,215,134,
+	def ,`POINT00002`,250,169,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ1508070326,
+	OBJ1508070327 == 0
+	push_object OBJ1508070327
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,215,134,
+	def ,`POINT00002`,250,169,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ1508070327,
+	OBJ1508070328 == 0
+	push_object OBJ1508070328
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,188,179,
+	def ,`POINT00002`,223,214,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ1508070328,
+	OBJ1508070329 == 0
+	push_object OBJ1508070329
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,188,179,
+	def ,`POINT00002`,223,214,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ1508070329,
+	OBJ1508070330 == 0
+	push_object OBJ1508070330
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,158,224,
+	def ,`POINT00002`,193,259,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ1508070330,
+	OBJ1508070331 == 0
+	push_object OBJ1508070331
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,158,224,
+	def ,`POINT00002`,193,259,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10009`,`G_IMAGE`,OBJ1508070331,
+	OBJ1508070332 == 0
+	push_object OBJ1508070332
+	def ,`POINT00001`,263,142,
+	def ,`POINT00002`,389,176,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Abuelos`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10010`,`G_TEXT`,OBJ1508070332,
+	OBJ1508070333 == 0
+	push_object OBJ1508070333
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,4,331,
+	def ,`POINT00002`,91,449,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,2.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10011`,`G_IMAGE`,OBJ1508070333,
+	OBJ1508070334 == 0
+	push_object OBJ1508070334
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,180,331,
+	def ,`POINT00002`,267,449,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`translucence`,100,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10012`,`G_IMAGE`,OBJ1508070334,
+	OBJ1508070335 == 0
+	push_object OBJ1508070335
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,268,331,
+	def ,`POINT00002`,356,449,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,0.5,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10013`,`G_IMAGE`,OBJ1508070335,
+	OBJ1508070336 == 0
+	push_object OBJ1508070336
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,357,331,
+	def ,`POINT00002`,444,449,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10014`,`G_IMAGE`,OBJ1508070336,
+	OBJ1508070337 == 0
+	push_object OBJ1508070337
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,0,0,
+	def ,`POINT00002`,87,117,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`translucence`,275,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10015`,`G_IMAGE`,OBJ1508070337,
+	OBJ1508070338 == 0
+	push_object OBJ1508070338
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,91,0,
+	def ,`POINT00002`,178,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,0.5,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10016`,`G_IMAGE`,OBJ1508070338,
+	OBJ1508070339 == 0
+	push_object OBJ1508070339
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,3,0,
+	def ,`POINT00002`,90,117,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,1.0,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10017`,`G_IMAGE`,OBJ1508070339,
+	OBJ1508070340 == 0
+	push_object OBJ1508070340
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,179,0,
+	def ,`POINT00002`,267,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,1.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`translucence`,100,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10018`,`G_IMAGE`,OBJ1508070340,
+	OBJ1508070341 == 0
+	push_object OBJ1508070341
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,357,0,
+	def ,`POINT00002`,445,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,2.0,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10019`,`G_IMAGE`,OBJ1508070341,
+	OBJ1508070342 == 0
+	push_object OBJ1508070342
+	def ,`CROP00001`,114,0,
+	def ,`CROP00002`,373,348,
+	def ,`POINT00001`,92,331,
+	def ,`POINT00002`,179,449,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,1.5,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`white`,yes,
+	def ,`name`,`Photos\People\Ctl10029.jpg`,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10020`,`G_IMAGE`,OBJ1508070342,
+	OBJ1508070343 == 0
+	push_object OBJ1508070343
+	def ,`POINT00001`,58,319,
+	def ,`POINT00002`,213,363,
+	def ,`animate_duration`,1.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_path`,`447 323 43 323`,yes,
+	def ,`animate_start`,0.0,yes,
+	def ,`animate_style`,`path`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Arial#24#Normal#0#0#0`,yes,
+	def ,`name`,`patricia`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10021`,`G_TEXT`,OBJ1508070343,
+	OBJ1508070344 == 0
+	push_object OBJ1508070344
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,268,0,
+	def ,`POINT00002`,356,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_init`,1.5,yes,
+	def ,`effect_mode`,`alpha`,yes,
+	def ,`effect_rise`,2.0,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0060.JPG`,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10022`,`G_IMAGE`,OBJ1508070344,
+	OBJ1508070345 == 0
+	push_object OBJ1508070345
+	def ,`POINT00001`,237,85,
+	def ,`POINT00002`,403,132,
+	def ,`animate_duration`,1.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_path`,`0 90 310 90`,yes,
+	def ,`animate_start`,0.0,yes,
+	def ,`animate_style`,`path`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Arial#24#Normal#0#0#0`,yes,
+	def ,`name`,`fernando`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	def ,`vertical`,`top`,yes,
+	pop_current_object
+	def ,`10023`,`G_TEXT`,OBJ1508070345,
+	OBJ1508070346 == 0
+	push_object OBJ1508070346
+	def ,`POINT00001`,183,282,
+	def ,`POINT00002`,249,303,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10024`,`G_TEXT`,OBJ1508070346,
+	OBJ1508070347 == 0
+	push_object OBJ1508070347
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,128,269,
+	def ,`POINT00002`,163,304,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10025`,`G_IMAGE`,OBJ1508070347,
+	OBJ1508070348 == 0
+	push_object OBJ1508070348
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,128,269,
+	def ,`POINT00002`,163,304,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10026`,`G_IMAGE`,OBJ1508070348,
+	GR150807036 == 0
+	push_object GR150807036
+	def ,`object`,OBJ1508070328,yes,
+	def ,`object`,OBJ1508070329,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150807036,yes,
+	GR150807037 == 0
+	push_object GR150807037
+	def ,`object`,OBJ1508070330,yes,
+	def ,`object`,OBJ1508070331,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150807037,yes,
+	GR150807038 == 0
+	push_object GR150807038
+	def ,`object`,OBJ1508070326,yes,
+	def ,`object`,OBJ1508070327,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR150807038,yes,
+	GR150807039 == 0
+	push_object GR150807039
+	def ,`object`,OBJ1508070347,yes,
+	def ,`object`,OBJ1508070348,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00004`,GR150807039,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`font`,`Times New Roman#10#Normal#0#0#`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`page bgc`,`white`,yes,
+	def ,`thumb`,7,yes,
+	def ,`title`,`Padres`,yes,
+	pop_current_object
+	def ,`page002`,PG150807031,yes,
+	PG150807032 == 0
+	push_object PG150807032
+	OBJ1508070349 == 0
+	push_object OBJ1508070349
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,357,331,
+	def ,`POINT00002`,445,448,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,0.0,yes,
+	def ,`animate_style`,`bottom_off_to_pos`,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1508070349,
+	OBJ1508070350 == 0
+	push_object OBJ1508070350
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,2,0,
+	def ,`POINT00002`,89,117,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,0.0,yes,
+	def ,`animate_style`,`top_off_to_pos`,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10001`,`G_IMAGE`,OBJ1508070350,
+	OBJ1508070351 == 0
+	push_object OBJ1508070351
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,2,331,
+	def ,`POINT00002`,90,448,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,2.0,yes,
+	def ,`animate_style`,`bottom_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1508070351,
+	OBJ1508070352 == 0
+	push_object OBJ1508070352
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,357,0,
+	def ,`POINT00002`,446,117,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,2.0,yes,
+	def ,`animate_style`,`top_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ1508070352,
+	OBJ150807040 == 0
+	push_object OBJ150807040
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,90,0,
+	def ,`POINT00002`,177,117,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,0.5,yes,
+	def ,`animate_style`,`top_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ150807040,
+	OBJ150807041 == 0
+	push_object OBJ150807041
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,178,0,
+	def ,`POINT00002`,266,117,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,1.0,yes,
+	def ,`animate_style`,`top_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`translucence`,100,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10005`,`G_IMAGE`,OBJ150807041,
+	OBJ150807042 == 0
+	push_object OBJ150807042
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,267,0,
+	def ,`POINT00002`,356,117,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,1.5,yes,
+	def ,`animate_style`,`top_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\KIDS0060.JPG`,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ150807042,
+	OBJ150807043 == 0
+	push_object OBJ150807043
+	def ,`POINT00001`,211,85,
+	def ,`POINT00002`,404,133,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_path`,`0 86 262 84`,yes,
+	def ,`animate_start`,2.0,yes,
+	def ,`animate_style`,`path`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Arial#24#Normal#0#0#0`,yes,
+	def ,`name`,`guadalupe`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10007`,`G_TEXT`,OBJ150807043,
+	OBJ150807044 == 0
+	push_object OBJ150807044
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,91,331,
+	def ,`POINT00002`,179,448,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_start`,1.5,yes,
+	def ,`animate_style`,`bottom_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ150807044,
+	OBJ150807045 == 0
+	push_object OBJ150807045
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,180,331,
+	def ,`POINT00002`,267,448,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,1.0,yes,
+	def ,`animate_style`,`bottom_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`translucence`,100,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10009`,`G_IMAGE`,OBJ150807045,
+	OBJ150807046 == 0
+	push_object OBJ150807046
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,268,331,
+	def ,`POINT00002`,356,448,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_start`,0.5,yes,
+	def ,`animate_style`,`bottom_off_to_pos`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`name`,`Photos\People\KIDS0043.JPG`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10010`,`G_IMAGE`,OBJ150807046,
+	OBJ150807047 == 0
+	push_object OBJ150807047
+	def ,`POINT00001`,60,319,
+	def ,`POINT00002`,188,362,
+	def ,`animate_duration`,2.0,yes,
+	def ,`animate_loop`,no,yes,
+	def ,`animate_path`,`452 331 58 330`,yes,
+	def ,`animate_start`,2.0,yes,
+	def ,`animate_style`,`path`,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Arial#24#Normal#0#0#0`,yes,
+	def ,`name`,`juan`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ150807047,
+	OBJ150807048 == 0
+	push_object OBJ150807048
+	def ,`POINT00001`,12,144,
+	def ,`POINT00002`,151,240,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`font`,`Times New Roman#8#Bold#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`name`,`Guadalupe tiene 10 años y a ella le encanta vestirse. Espera poder un día seguir la huella de su padre y convertirse en una conductora de trenes.
+`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10012`,`G_TEXT`,OBJ150807048,
+	OBJ150807049 == 0
+	push_object OBJ150807049
+	def ,`POINT00001`,292,223,
+	def ,`POINT00002`,420,323,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`font`,`Times New Roman#8#Bold#0#0#0`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`name`,`Juan tiene 6 años y a él le gusta jugar a los vaqueros y los indios. Sueña con poseer un pony, algún día.
+`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10013`,`G_TEXT`,OBJ150807049,
+	OBJ1508070410 == 0
+	push_object OBJ1508070410
+	def ,`POINT00001`,203,236,
+	def ,`POINT00002`,280,259,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Padres`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ1508070410,
+	OBJ1508070411 == 0
+	push_object OBJ1508070411
+	def ,`POINT00001`,235,190,
+	def ,`POINT00002`,361,213,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Hijos`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10015`,`G_TEXT`,OBJ1508070411,
+	OBJ1508070412 == 0
+	push_object OBJ1508070412
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,215,134,
+	def ,`POINT00002`,250,169,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10016`,`G_IMAGE`,OBJ1508070412,
+	OBJ1508070413 == 0
+	push_object OBJ1508070413
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,215,134,
+	def ,`POINT00002`,250,169,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10017`,`G_IMAGE`,OBJ1508070413,
+	OBJ1508070414 == 0
+	push_object OBJ1508070414
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,188,179,
+	def ,`POINT00002`,223,214,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10018`,`G_IMAGE`,OBJ1508070414,
+	OBJ1508070415 == 0
+	push_object OBJ1508070415
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,188,179,
+	def ,`POINT00002`,223,214,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10019`,`G_IMAGE`,OBJ1508070415,
+	OBJ1508070416 == 0
+	push_object OBJ1508070416
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,158,224,
+	def ,`POINT00002`,193,259,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10020`,`G_IMAGE`,OBJ1508070416,
+	OBJ1508070417 == 0
+	push_object OBJ1508070417
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,158,224,
+	def ,`POINT00002`,193,259,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10021`,`G_IMAGE`,OBJ1508070417,
+	OBJ1508070418 == 0
+	push_object OBJ1508070418
+	def ,`POINT00001`,263,142,
+	def ,`POINT00002`,389,167,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Abuelos`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10022`,`G_TEXT`,OBJ1508070418,
+	OBJ1508070419 == 0
+	push_object OBJ1508070419
+	def ,`POINT00001`,183,282,
+	def ,`POINT00002`,249,303,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10023`,`G_TEXT`,OBJ1508070419,
+	OBJ1508070420 == 0
+	push_object OBJ1508070420
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,128,269,
+	def ,`POINT00002`,163,304,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10024`,`G_IMAGE`,OBJ1508070420,
+	OBJ1508070421 == 0
+	push_object OBJ1508070421
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,128,269,
+	def ,`POINT00002`,163,304,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10025`,`G_IMAGE`,OBJ1508070421,
+	GR150807040 == 0
+	push_object GR150807040
+	def ,`object`,OBJ1508070421,yes,
+	def ,`object`,OBJ1508070420,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150807040,yes,
+	GR150807041 == 0
+	push_object GR150807041
+	def ,`object`,OBJ1508070417,yes,
+	def ,`object`,OBJ1508070416,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150807041,yes,
+	GR150807042 == 0
+	push_object GR150807042
+	def ,`object`,OBJ1508070415,yes,
+	def ,`object`,OBJ1508070414,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR150807042,yes,
+	GR150807043 == 0
+	push_object GR150807043
+	def ,`object`,OBJ1508070413,yes,
+	def ,`object`,OBJ1508070412,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00004`,GR150807043,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`font`,`Times New Roman#10#Normal#0#0#`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`page bgc`,`white`,yes,
+	def ,`thumb`,8,yes,
+	def ,`title`,`Hijos`,yes,
+	pop_current_object
+	def ,`page003`,PG150807032,yes,
+	PG150807040 == 0
+	push_object PG150807040
+	OBJ1508070422 == 0
+	push_object OBJ1508070422
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,357,331,
+	def ,`POINT00002`,445,448,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1508070422,
+	OBJ1508070423 == 0
+	push_object OBJ1508070423
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,2,331,
+	def ,`POINT00002`,90,448,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10001`,`G_IMAGE`,OBJ1508070423,
+	OBJ1508070424 == 0
+	push_object OBJ1508070424
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,268,331,
+	def ,`POINT00002`,356,448,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1508070424,
+	OBJ1508070425 == 0
+	push_object OBJ1508070425
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,180,331,
+	def ,`POINT00002`,267,448,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+	def ,`translucence`,100,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ1508070425,
+	OBJ1508070426 == 0
+	push_object OBJ1508070426
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,91,331,
+	def ,`POINT00002`,179,448,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0041.JPG`,yes,
+end
+begin
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10004`,`G_IMAGE`,OBJ1508070426,
+	OBJ1508070427 == 0
+	push_object OBJ1508070427
+	def ,`POINT00001`,58,318,
+	def ,`POINT00002`,197,360,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Arial#24#Normal#0#0#0`,yes,
+	def ,`name`,`maria`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10005`,`G_TEXT`,OBJ1508070427,
+	OBJ1508070428 == 0
+	push_object OBJ1508070428
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,91,0,
+	def ,`POINT00002`,179,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10006`,`G_IMAGE`,OBJ1508070428,
+	OBJ1508070429 == 0
+	push_object OBJ1508070429
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,2,0,
+	def ,`POINT00002`,90,117,
+	def ,`bgc`,`white`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`translucence`,200,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ1508070429,
+	OBJ1508070430 == 0
+	push_object OBJ1508070430
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,180,0,
+	def ,`POINT00002`,267,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`translucence`,100,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10008`,`G_IMAGE`,OBJ1508070430,
+	OBJ1508070431 == 0
+	push_object OBJ1508070431
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,268,0,
+	def ,`POINT00002`,357,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`translucence`,50,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10009`,`G_IMAGE`,OBJ1508070431,
+	OBJ1508070432 == 0
+	push_object OBJ1508070432
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,479,639,
+	def ,`POINT00001`,358,0,
+	def ,`POINT00002`,446,117,
+	def ,`bgc`,`black`,yes,
+	def ,`effect_fall`,0.5,yes,
+	def ,`effect_init`,0.0,yes,
+	def ,`effect_mode`,`blur`,yes,
+	def ,`effect_sunk`,yes,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`name`,`Photos\People\PEOP0048.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10010`,`G_IMAGE`,OBJ1508070432,
+	OBJ1508070433 == 0
+	push_object OBJ1508070433
+	def ,`POINT00001`,291,85,
+	def ,`POINT00002`,414,129,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#ffffff`,yes,
+	def ,`font`,`Arial#24#Normal#0#0#0`,yes,
+	def ,`name`,`pedro`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10011`,`G_TEXT`,OBJ1508070433,
+	OBJ1508070434 == 0
+	push_object OBJ1508070434
+	def ,`POINT00001`,12,141,
+	def ,`POINT00002`,116,308,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`font`,`Times New Roman#8#Bold#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`name`,`Pedro tiene 67 y disfruta de la vida familiar y de sus cigarros Dunhill. Ha estado casado con María por 38 años y él quiere llevarla en un viaje alrededor del mundo para su aniversario de bodas número 40. 
+
+`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10012`,`G_TEXT`,OBJ1508070434,
+	OBJ1508070435 == 0
+	push_object OBJ1508070435
+	def ,`POINT00001`,280,221,
+	def ,`POINT00002`,422,317,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	def ,`font`,`Times New Roman#8#Bold#0#0#0`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`name`,`Maria tiene 65 y a ella le gusta trabajar en la granja con su marido. Ella está muy orgullosa de sus hijos y de sus nietos y trata de verlos lo más posible.`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10013`,`G_TEXT`,OBJ1508070435,
+	OBJ1508070436 == 0
+	push_object OBJ1508070436
+	def ,`POINT00001`,203,236,
+	def ,`POINT00002`,271,259,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Padres`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10014`,`G_TEXT`,OBJ1508070436,
+	OBJ1508070437 == 0
+	push_object OBJ1508070437
+	def ,`POINT00001`,235,190,
+	def ,`POINT00002`,361,213,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Hijos`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10015`,`G_TEXT`,OBJ1508070437,
+	OBJ1508070438 == 0
+	push_object OBJ1508070438
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,215,134,
+	def ,`POINT00002`,250,169,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10016`,`G_IMAGE`,OBJ1508070438,
+	OBJ1508070439 == 0
+	push_object OBJ1508070439
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,215,134,
+	def ,`POINT00002`,250,169,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Abuelos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10017`,`G_IMAGE`,OBJ1508070439,
+	OBJ1508070440 == 0
+	push_object OBJ1508070440
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,188,179,
+	def ,`POINT00002`,223,214,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10018`,`G_IMAGE`,OBJ1508070440,
+	OBJ1508070441 == 0
+	push_object OBJ1508070441
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,188,179,
+	def ,`POINT00002`,223,214,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Hijos`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10019`,`G_IMAGE`,OBJ1508070441,
+	OBJ1508070442 == 0
+	push_object OBJ1508070442
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,158,224,
+	def ,`POINT00002`,193,259,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10020`,`G_IMAGE`,OBJ1508070442,
+	OBJ1508070443 == 0
+	push_object OBJ1508070443
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,158,224,
+	def ,`POINT00002`,193,259,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Padres`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10021`,`G_IMAGE`,OBJ1508070443,
+	OBJ1508070444 == 0
+	push_object OBJ1508070444
+	def ,`POINT00001`,263,142,
+	def ,`POINT00002`,389,167,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`name`,`Abuelos`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10022`,`G_TEXT`,OBJ1508070444,
+	OBJ1508070445 == 0
+	push_object OBJ1508070445
+	def ,`POINT00001`,183,282,
+	def ,`POINT00002`,249,303,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`#0768b8`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10023`,`G_TEXT`,OBJ1508070445,
+	OBJ1508070446 == 0
+	push_object OBJ1508070446
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,128,269,
+	def ,`POINT00002`,163,304,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey2.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10024`,`G_IMAGE`,OBJ1508070446,
+	OBJ1508070447 == 0
+	push_object OBJ1508070447
+	def ,`CROP00001`,0,0,
+	def ,`CROP00002`,43,43,
+	def ,`POINT00001`,128,269,
+	def ,`POINT00002`,163,304,
+	def ,`antialias`,36,yes,
+	def ,`bgc`,`white`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`link`,`title Portada`,yes,
+	def ,`name`,`Clipart\Buttons\Circle\BtnGrey.gif`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10025`,`G_IMAGE`,OBJ1508070447,
+	GR150807044 == 0
+	push_object GR150807044
+	def ,`object`,OBJ1508070447,yes,
+	def ,`object`,OBJ1508070446,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00001`,GR150807044,yes,
+	GR150807045 == 0
+	push_object GR150807045
+	def ,`object`,OBJ1508070443,yes,
+	def ,`object`,OBJ1508070442,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00002`,GR150807045,yes,
+	GR150807046 == 0
+	push_object GR150807046
+	def ,`object`,OBJ1508070441,yes,
+	def ,`object`,OBJ1508070440,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00003`,GR150807046,yes,
+	GR150807047 == 0
+	push_object GR150807047
+	def ,`object`,OBJ1508070439,yes,
+	def ,`object`,OBJ1508070438,yes,
+	def ,`type`,`G_GROUP`,yes,
+	pop_current_object
+	def ,`GR00004`,GR150807047,yes,
+	def ,`bgc`,`black`,yes,
+	def ,`fgc`,`black`,yes,
+	def ,`font`,`Times New Roman#10#Normal#0#0#`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`page bgc`,`white`,yes,
+	def ,`thumb`,9,yes,
+	def ,`title`,`Abuelos`,yes,
+	pop_current_object
+	def ,`page004`,PG150807040,yes,
+	def ,`page_depth`,450,yes,
+	def ,`page_width`,450,yes,
+	def ,`row`,0,yes,
+	def ,`scale_unit`,`pixel`,yes,
+	def ,`width`,774,yes,
+	pop_current_object
+end
+
+;==EndOfFile==

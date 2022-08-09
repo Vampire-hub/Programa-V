@@ -1,0 +1,46 @@
+script de vnet clase2 cuarto ciclo
+
+Private Sub cargar(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Dim aprog() As String = {"computacion ", "secretariado", "office"}
+        cbopro.Items.AddRange(aprog)
+        cbopro.SelectedIndex = 0
+        'llenar cursos.
+        Dim acursos() As String = {"algoritmos", "aspnet", "vbnet", "matematica"}
+        lstcursos.Items.AddRange(acursos)
+
+    End Sub
+
+    Private Sub cbopro_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cbopro.SelectedIndexChanged
+        lstcursos.Items.Clear()
+        Select Case cbopro.SelectedIndex
+            Case 0
+                Dim acursos() As String = {"algoritmos", "aspnet", "vbnet", "matematica"}
+                lstcursos.Items.AddRange(acursos)
+            Case 1
+                Dim acursos() As String = {"redaccion", "lenguaje", "etiqueta", "oratoria", "archivos"}
+                lstcursos.Items.AddRange(acursos)
+            Case 2
+                Dim acursos() As String = {"word", "excel", "access", "ppoint"}
+                lstcursos.Items.AddRange(acursos)
+        End Select
+
+    End Sub
+
+    Private Sub mover(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click, Button2.Click, Button3.Click, Button4.Click, lstcursos.DoubleClick, lstmatriculas.DoubleClick
+        If sender Is Button1 Or sender Is lstcursos Then
+            If lstcursos.SelectedIndex <> -1 Then
+                lstmatriculas.Items.Add(lstcursos.Text)
+                lstcursos.Items.Remove(lstcursos.Text)
+            End If
+        ElseIf sender Is Button2 Then
+            For i As Integer = 0 To lstcursos.Items.Count - 1
+                lstmatriculas.Items.Add(lstcursos.Items(i))
+            Next
+            lstcursos.Items.Clear()
+        elseif If sender Is Button3 Or sender Is lstmatriculas Then
+                If lstcursos.SelectedIndex <> -1 Then
+                    lstmatriculas.Items.Add(lstcursos.Text)
+                    lstcursos.Items.Remove(lstcursos.Text
+                End If
+
+    End Sub

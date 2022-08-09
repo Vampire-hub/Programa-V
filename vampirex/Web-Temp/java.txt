@@ -1,0 +1,245 @@
+JAVA
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.145:15024/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'tweety',
+'width':189,
+'height':62
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+
+
+
+
+
+
+
+naranja
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'tweety',
+'width':189,
+'height':62
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+
+gigante
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'retro',
+'width':669,
+'height':259
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+
+
+
+Verde hermoso
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'limed',
+'width':397,
+'height':115
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+verde tosco
+
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'combat',
+'width':675,
+'height':247
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+curioso
+
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'xavi3',
+'width':250,
+'height':95
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+
+
+
+winamp
+
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'scradio',
+'width':160,
+'height':100
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+plateado
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'mcclean',
+'width':180,
+'height':60
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+
+compact
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'compact',
+'width':191,
+'height':46
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+casette
+
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'http://162.210.196.140:36852/;',
+'lang':'es',
+'codec':'mp3',
+'volume':100,
+'autoplay':true,
+'jsevents':true,
+'buffering':0,
+'title':'Great Walker',
+'wmode':'transparent',
+'skin':'cassette',
+'width':200,
+'height':120
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->

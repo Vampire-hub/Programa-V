@@ -1,0 +1,42 @@
+﻿/* CSS layout */
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#masthead {
+	min-width: 600px;
+}
+
+#logo {
+	float: left;
+	width: 200px;
+}
+
+#header {
+	margin-left:200px;
+}
+
+#container {
+	clear: both;
+	min-width: 600px;
+}
+
+#left_col {
+	float: left;
+	width: 200px;
+}
+
+#right_col {
+	float: right;
+	width: 200px;
+}
+
+#page_content {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#footer {
+	clear: both;
+}

@@ -1,0 +1,118 @@
+para hacer las cajas trasparente
+
+<style type="text/css"> 
+div span, divtd, table td tr 
+{ 
+background-color: transparent !important; 
+background-image:url(http://dl.glitter-graphics.net/pub/4/4049zgriouybt4.gif); 
+} 
+</style>
+-------------------------------------------------------------
+para hacer hasta el cuadro del google
+
+<style type="text/css"> 
+td, table td tr 
+{ 
+background-color: transparent !important; 
+background-image:url(http://dl.glitter-graphics.net/pub/4/4049zgriouybt4.gif); 
+} 
+</style>
+
+------------------------------------------------------------------------------
+<style type="text/css">.nackvision.com {Page Body Property} 
+body { 
+} 
+table table table table {border:0px;}table, tr, td {background:transparent; border:0px;} 
+table table table {background:transparent;} 
+table table table td { 
+background-color:; 
+
+}.nackvision.com {Font Property} 
+td, span, div, input, a, table td div div font, 
+body div table tbody tr td font { 
+font-family:comic sans ms !important;}td, span, div, input, table td div div font, 
+body div table tbody tr td font { 
+color:8A2BE2 !important;}.nametext, .whitetext12, .lightbluetext8, .orangetext15, .blacktext12, 
+.redtext, .redbtext, .blacktext10, .btext { 
+color:8A2BE2 !important;} 
+</style><a    border="0" style="position: absolute; top:0px; left:0px"></a> 
+
+<style type="text/css"> 
+body { 
+}td, span, div, table td div div font 
+{ 
+color:#FFFFFF} 
+</style> </style> 
+------------------------------------------------------------------------------
+table table table table {border:0px;} table td tr   {background:#9900CC; border:0px;} 
+table table table {background:#9900CC;} 
+table table table td { 
+background-color:; 
+.........................................................................
+borde exterior
+body { 
+border-width:10px; 
+border-color:#9900CC; 
+border-style:dashed; 
+} 
+
+-----------------------------------------------------------
+<style type='text/css'></style> 
+    <div class="text_header"    visibility: hidden style="padding: 4px 32px;"> 
+
+</style> 
+---------------------------------------------------------
+lluvia para hi5
+<marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:130px; top:150px; width:16px; height:548px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="3" style="position:absolute; left:177px; top:170px; width:16px; height:388px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:225px; top:190px; width:16px; height:324px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:265px; top:180px; width:16px; height:499px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:325px; top:160px; width:16px; height:411px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:239px; top:190px; width:16px; height:251px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="1" style="position:absolute; left:141px; top:150px; width:16px; height:221px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="7" style="position:absolute; left:289px; top:170px; width:16px; height:230px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:108px; top:230px; width:16px; height:241px;"><span style="color: !important;">1 8 2</span></marquee>   <marquee behavior="scroll" direction="down" scrollamount="2" style="position:absolute; left:370px; top:190px; width:16px; height:386px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="2" style="position:absolute; left:394px; top:150px; width:16px; height:484px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="2" style="position:absolute; left:430px; top:170px; width:16px; height:442px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="3" style="position:absolute; left:475px; top:200px; width:16px; height:423px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="6" style="position:absolute; left:559px; top:170px; width:16px; height:541px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="2" style="position:absolute; left:580px; top:200px; width:16px; height:423px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:533px; top:170px; width:16px; height:385px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="1" style="position:absolute; left:614px; top:200px; width:16px; height:332px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="3" style="position:absolute; left:651px; top:250px; width:16px; height:386px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:684px; top:290px; width:16px; height:514px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="1" style="position:absolute; left:658px; top:180px; width:16px; height:247px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="1" style="position:absolute; left:694px; top:160px; width:16px; height:216px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="2" style="position:absolute; left:738px; top:200px; width:16px; height:392px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="1" style="position:absolute; left:753px; top:150px; width:16px; height:544px;"><span style="color: !important;">1 8 2</span></marquee> <marquee behavior="scroll" direction="down" scrollamount="5" style="position:absolute; left:800px; top:180px; width:16px; height:404px;"><span style="color: !important;">1 8 2</span></marquee> 
+<br></br> 
+-----------------------------------------------------------------------------------------------
+-APARECE LA IMAGEN CON COLOR, Y AL PASAR EL MOUSE SE VE EN BLANCO Y NEGRO: 
+
+<style 
+type="text/css"> a:link img {filter:none;} a:visited img 
+{filter:none;} a:hover img {filter:gray;} </style><a 
+href="http://www.tumundogratis.net" target="_blank"> <img 
+src="http://www.subir-imagenes.com/subir-imagenes-fotos/dd69056d2e.jpg" 
+border="0" alt="Conseguir tus propias Imágenes y link Animados en 
+www.TuMundoGratis.net! "> </a> 
+
+-APARECE LA IMAGEN NORMAL Y AL PASAR EL MOUSE SE VE EN RAYOS-X: 
+
+<style 
+type="text/css"> a:link img {filter:none;} a:visited img 
+{filter:none;} a:hover img {filter:xray();} </style><a 
+href="http://www.tumundogratis.net" target="_blank"> <img 
+src="http://www.subir-imagenes.com/subir-imagenes-fotos/dd69056d2e.jpg" 
+border="0" alt="Conseguir tus propias Imágenes y link Animados en 
+www.TuMundoGratis.net! "> </a> 
+.............................................................
+barra de desplazamniento 
+<style type="text/css"> 
+body 
+{ 
+scrollbar-arrow-color: #000066; 
+scrollbar-base-color: #000033; 
+scrollbar-dark-shadow-color: #336699; 
+scrollbar-track-color: #336699; 
+scrollbar-face-color: #5e9ace; 
+scrollbar-shadow-color: #DDDDDD; 
+scrollbar-highlight-color: #CCCCCC; 
+} 
+</style>
+----------------------------------------------------------------
+Enviado por INFINITY en 13/12/2006 02:37:26 
+<!-- Barras de desplazamiento --> 
+CITA 
+<style type="text/css"> 
+body 
+{ 
+scrollbar-arrow-color: #000066; 
+scrollbar-base-color: #000033; 
+scrollbar-dark-shadow-color: #336699; 
+scrollbar-track-color: #336699; 
+scrollbar-face-color: #5e9ace; 
+scrollbar-shadow-color: #DDDDDD; 
+scrollbar-highlight-color: #CCCCCC; 
+} 
+</style> 
+

@@ -1,0 +1,169 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc03               { /* Common */
+	border          :   0.00pt none #eaebec;
+	}
+span#e17            { /* images/about002006.jpg */
+	background      : transparent url(images/about002006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 600.00pt;
+	height          : 288.75pt;
+	}
+span#e16            { /* images/about002005.jpg */
+	background      : transparent url(images/about002005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             : 238.50pt;
+	width           : 483.75pt;
+	height          : 445.50pt;
+	}
+span#e15            { /* images/about002004.jpg */
+	background      : transparent url(images/about002004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 206.25pt;
+	width           : 471.75pt;
+	height          :  24.75pt;
+	}
+span#e14            { /* images/about002003.jpg */
+	background      : transparent url(images/about002003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  64.50pt;
+	top             : 585.00pt;
+	width           :  93.75pt;
+	height          :  90.00pt;
+	}
+div#e13             { /* Portada */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            :  66.75pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* Nosotros */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 143.25pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e11             { /* Galería */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 220.50pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e10             { /* Contacte */
+	font            : bold 7pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	padding-top     :   6.75pt;
+	position        : absolute;
+	left            : 297.00pt;
+	top             : 207.75pt;
+	width           :  70.50pt;
+	height          :  14.25pt;
+	}
+div#e9              { /* Mi sueño: reunir a todos... */
+	font            : bold 8pt 'Arial Black', Helvetica, sans-serif;
+	color           : #808000;
+	position        : absolute;
+	left            :  71.25pt;
+	top             : 492.00pt;
+	width           : 455.25pt;
+	height          : 114.75pt;
+	}
+span#e8             { /* images/about002002.jpg */
+	border          :   0.00pt none #808080;
+	background      : transparent url(images/about002002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 389.25pt;
+	top             : 243.75pt;
+	width           : 146.25pt;
+	height          : 248.25pt;
+	}
+h6#e7               { /* Si el objetivo es ser gr... */
+	font            : 7pt 'Times New Roman', Book, Georgia, serif;
+	color           : #808080;
+	position        : absolute;
+	left            :  63.75pt;
+	top             : 677.25pt;
+	width           : 471.75pt;
+	height          :  20.25pt;
+	}
+address#e6          { /* Luis Anthony */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 626.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+address#e5          { /* El SIye */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 145.50pt;
+	top             : 641.25pt;
+	width           :  61.50pt;
+	height          :  12.00pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            :  75.00pt;
+	top             : 249.75pt;
+	width           : 321.00pt;
+	height          : 262.50pt;
+	}
+div#e3              { /* Vampiro\ \707 */
+	font            : bold 12pt 'Comic Sans MS', cursive;
+	color           : #808080;
+	text-align      : center;
+	padding-top     :   9.75pt;
+	position        : absolute;
+	left            :  80.25pt;
+	top             : 612.00pt;
+	width           :  66.75pt;
+	height          :  44.25pt;
+	}
+address#e2          { /* vampiro-707@hotmail.com */
+	font            : 6pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 656.25pt;
+	width           : 102.75pt;
+	height          :  12.00pt;
+	}
+div#e1              { /*  Entre Poemas y  \\ Teor... */
+	background      : transparent url(images/about002001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  63.75pt;
+	top             :  87.75pt;
+	width           : 471.75pt;
+	height          : 120.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 600.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	background-image: url(images/about002b01.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

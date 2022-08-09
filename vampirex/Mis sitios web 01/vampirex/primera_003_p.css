@@ -1,0 +1,255 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc03               { /* Common */
+	border          :   0.00pt none #f0f0f0;
+	}
+span#e27            { /* images/primera003016.jpg */
+	background      : transparent url(images/primera003016.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 768.00pt;
+	height          : 288.75pt;
+	}
+span#e26            { /* images/primera003015.jpg */
+	background      : transparent url(images/primera003015.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  76.50pt;
+	top             : 238.50pt;
+	width           : 615.75pt;
+	height          : 445.50pt;
+	}
+span#e25            { /* images/primera003014.jpg */
+	background      : transparent url(images/primera003014.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 206.25pt;
+	width           : 603.75pt;
+	height          :  24.75pt;
+	}
+span#e24            { /* images/primera003013.jpg */
+	background      : transparent url(images/primera003013.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 585.00pt;
+	width           : 120.00pt;
+	height          :  90.00pt;
+	}
+div#e23             { /* Logo */
+	padding-top     :   9.00pt;
+	position        : absolute;
+	left            : 133.50pt;
+	top             : 107.25pt;
+	width           : 134.25pt;
+	height          :  39.75pt;
+	}
+div#e22             { /* Logo */
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 111.75pt;
+	top             : 608.25pt;
+	width           :  61.50pt;
+	height          :  26.25pt;
+	}
+div#e21             { /* Portada */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            :  85.50pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e20             { /* Nosotros */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 183.75pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e19             { /* Galería */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+div#e18             { /* Contacte */
+	padding-top     :   5.25pt;
+	position        : absolute;
+	left            : 380.25pt;
+	top             : 207.75pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+address#e17         { /* Nombre */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 626.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+address#e16         { /* Dirección */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 641.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+address#e15         { /* E-mail */
+	text-align      : left;
+	background-color: transparent;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 656.25pt;
+	width           :  79.50pt;
+	height          :  12.00pt;
+	}
+h6#e14              { /* Este software contiene m... */
+	background-color: transparent;
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 677.25pt;
+	width           : 597.75pt;
+	height          :  12.75pt;
+	}
+h4#e13              { /* Galería */
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 258.75pt;
+	width           : 203.25pt;
+	height          :  15.00pt;
+	}
+span#e12            { /* images/primera003012.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003012.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 100.50pt;
+	top             : 295.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e11            { /* images/primera003011.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 238.50pt;
+	top             : 295.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e10            { /* images/primera003010.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 295.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e9             { /* images/primera003009.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003009.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 524.25pt;
+	top             : 295.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e8             { /* images/primera003008.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 100.50pt;
+	top             : 402.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e7             { /* images/primera003007.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 238.50pt;
+	top             : 402.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e6             { /* images/primera003006.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 402.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e5             { /* images/primera003005.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 524.25pt;
+	top             : 402.00pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e4             { /* images/primera003004.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 100.50pt;
+	top             : 508.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e3             { /* images/primera003003.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 238.50pt;
+	top             : 508.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e2             { /* images/primera003002.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 508.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+span#e1             { /* images/primera003001.jpg */
+	border          :   0.00pt none #f1dacf;
+	background      : transparent url(images/primera003001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 524.25pt;
+	top             : 508.50pt;
+	width           : 136.50pt;
+	height          : 106.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 768.00pt;
+	height          : 712.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #6a70a2;
+	background-image: url(images/dr_i_bg.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
